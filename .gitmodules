@@ -1,0 +1,4 @@
+[submodule "Capella"]
+	path = Capella
+	url = https://github.com/maxgol37/SE_UAVArcticDelivery_Capella.git
+	branch = dev
