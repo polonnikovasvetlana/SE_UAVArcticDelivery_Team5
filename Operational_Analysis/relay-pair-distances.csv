@@ -1,0 +1,1597 @@
+from_id,from_name,to_id,to_name,distance_km,display_km,within_300_km,near_threshold_295_305,interpretation
+MUR,Murmansk,TER,Teriberka,85.160300,85.2,True,False,geographical_only_site_qualification_pending
+MUR,Murmansk,OST,Ostrovnoy,281.912536,281.9,True,False,geographical_only_site_qualification_pending
+MUR,Murmansk,SHO,Shoyna,469.650409,469.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,IND,Indiga,672.027256,672.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,NAR,Naryan-Mar,831.560015,831.6,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,CHE,Chernaya,944.791008,944.8,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KAR,Karatayka,1130.456635,1130.5,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,AMD,Amderma,1117.819437,1117.8,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,UKA,Ust-Kara,1253.867350,1253.9,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KHA,Kharasavey,1292.178427,1292.2,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,SEY,Seyakha,1515.457614,1515.5,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,SAB,Sabetta,1478.780291,1478.8,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,GYD,Gyda,1711.102938,1711.1,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,DIK,Dikson,1724.703951,1724.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KHT,Khatanga,2465.021653,2465.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,NOV,Novorybnaya,2522.267073,2522.3,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,SYN,Syndassko,2570.221991,2570.2,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,YUR,Yuryung-Khaya,2737.382534,2737.4,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,UOL,Ust-Olenek,2907.150680,2907.2,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,TAY,Taymylyr,2987.568489,2987.6,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,TIK,Tiksi,3239.982808,3240.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,NAI,Naiba,3349.478596,3349.5,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,NIZ,Nizhneyansk,3437.993113,3438.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,CHO,Chokurdakh,3779.427425,3779.4,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,RUS,Russkoye Ustye,3762.169429,3762.2,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,POK,Pokhodsk,4188.770562,4188.8,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,CHR,Chersky,4228.024345,4228.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,PEV,Pevek,4283.654307,4283.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,BIL,Billings,4343.361042,4343.4,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,RYR,Ryrkaypiy,4505.083737,4505.1,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,VAN,Vankarem,4662.112497,4662.1,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,NUT,Nutepelmen,4716.740878,4716.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,AMG,Amguema,4712.012002,4712.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,EGV,Egvekinot,4786.392805,4786.4,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KAN,Kanchalan,4852.658258,4852.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,ANA,Anadyr,4910.664993,4910.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,VOR,Vorontsovo (Taymyr),1863.177714,1863.2,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KAU,Karaul,1906.736570,1906.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,DUD,Dudinka,2040.934755,2040.9,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,NOR,Norilsk,2115.562912,2115.6,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,UST,Ust-Avam,2195.737040,2195.7,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,VOL,Volochanka,2258.860545,2258.9,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KHE,Kheta,2397.317334,2397.3,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,DEP,Deputatsky,3711.581539,3711.6,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,CHK,Chkalov,3716.347546,3716.3,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,BEL,Belaya Gora,3930.116031,3930.1,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,OLE,Olenegorsk (Sakha),3843.516847,3843.5,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,AND,Andryushkino,4052.333893,4052.3,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,KOL,Kolymskoye,4180.490115,4180.5,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,BBI,Bilibino,4389.191289,4389.2,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,RYT,Rytkuchi,4372.878713,4372.9,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,AYO,Ayon,4223.968353,4224.0,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,BYK,Bykovsky,3218.512221,3218.5,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,SAS,Saskylakh,2812.854204,2812.9,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,BUG,Bugrino,651.334117,651.3,False,False,geographical_only_site_qualification_pending
+MUR,Murmansk,VAR,Varnek,1056.985621,1057.0,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,OST,Ostrovnoy,216.754075,216.8,True,False,geographical_only_site_qualification_pending
+TER,Teriberka,SHO,Shoyna,394.723875,394.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,IND,Indiga,593.330490,593.3,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,NAR,Naryan-Mar,750.466688,750.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,CHE,Chernaya,860.442188,860.4,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KAR,Karatayka,1045.509223,1045.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,AMD,Amderma,1032.704417,1032.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,UKA,Ust-Kara,1168.708125,1168.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KHA,Kharasavey,1208.543042,1208.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,SEY,Seyakha,1431.031455,1431.0,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,SAB,Sabetta,1395.508404,1395.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,GYD,Gyda,1627.933640,1627.9,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,DIK,Dikson,1646.182910,1646.2,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KHT,Khatanga,2387.207573,2387.2,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,NOV,Novorybnaya,2446.536490,2446.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,SYN,Syndassko,2495.771774,2495.8,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,YUR,Yuryung-Khaya,2663.511793,2663.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,UOL,Ust-Olenek,2835.473991,2835.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,TAY,Taymylyr,2916.000135,2916.0,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,TIK,Tiksi,3169.479023,3169.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,NAI,Naiba,3278.704839,3278.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,NIZ,Nizhneyansk,3370.061602,3370.1,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,CHO,Chokurdakh,3715.765772,3715.8,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,RUS,Russkoye Ustye,3699.723855,3699.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,POK,Pokhodsk,4130.453700,4130.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,CHR,Chersky,4169.639854,4169.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,PEV,Pevek,4231.283413,4231.3,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,BIL,Billings,4294.472918,4294.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,RYR,Ryrkaypiy,4458.651530,4458.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,VAN,Vankarem,4617.559315,4617.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,NUT,Nutepelmen,4672.615230,4672.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,AMG,Amguema,4664.934029,4664.9,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,EGV,Egvekinot,4738.762731,4738.8,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KAN,Kanchalan,4801.551685,4801.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,ANA,Anadyr,4859.837798,4859.8,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,VOR,Vorontsovo (Taymyr),1781.664228,1781.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KAU,Karaul,1823.212721,1823.2,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,DUD,Dudinka,1957.191337,1957.2,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,NOR,Norilsk,2032.034020,2032.0,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,UST,Ust-Avam,2114.807556,2114.8,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,VOL,Volochanka,2178.059717,2178.1,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KHE,Kheta,2318.304909,2318.3,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,DEP,Deputatsky,3642.911523,3642.9,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,CHK,Chkalov,3651.096259,3651.1,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,BEL,Belaya Gora,3863.561514,3863.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,OLE,Olenegorsk (Sakha),3778.834546,3778.8,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,AND,Andryushkino,3990.543493,3990.5,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,KOL,Kolymskoye,4120.614201,4120.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,BBI,Bilibino,4333.261360,4333.3,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,RYT,Rytkuchi,4320.167389,4320.2,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,AYO,Ayon,4170.411267,4170.4,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,BYK,Bykovsky,3148.578271,3148.6,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,SAS,Saskylakh,2737.972884,2738.0,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,BUG,Bugrino,567.727087,567.7,False,False,geographical_only_site_qualification_pending
+TER,Teriberka,VAR,Varnek,971.840255,971.8,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,SHO,Shoyna,195.028768,195.0,True,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,IND,Indiga,402.525489,402.5,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,NAR,Naryan-Mar,568.517567,568.5,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,CHE,Chernaya,703.985739,704.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KAR,Karatayka,898.071966,898.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,AMD,Amderma,904.648893,904.6,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,UKA,Ust-Kara,1033.490279,1033.5,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KHA,Kharasavey,1109.163502,1109.2,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,SEY,Seyakha,1317.205625,1317.2,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,SAB,Sabetta,1298.108161,1298.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,GYD,Gyda,1529.431362,1529.4,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,DIK,Dikson,1585.609581,1585.6,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KHT,Khatanga,2326.107075,2326.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,NOV,Novorybnaya,2397.325336,2397.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,SYN,Syndassko,2453.237356,2453.2,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,YUR,Yuryung-Khaya,2623.252419,2623.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,UOL,Ust-Olenek,2805.346137,2805.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,TAY,Taymylyr,2886.091355,2886.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,TIK,Tiksi,3143.675203,3143.7,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,NAI,Naiba,3251.338957,3251.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,NIZ,Nizhneyansk,3354.997937,3355.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,CHO,Chokurdakh,3717.083738,3717.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,RUS,Russkoye Ustye,3705.715287,3705.7,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,POK,Pokhodsk,4150.449853,4150.4,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,CHR,Chersky,4189.321575,4189.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,PEV,Pevek,4270.862886,4270.9,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,BIL,Billings,4344.722459,4344.7,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,RYR,Ryrkaypiy,4515.909212,4515.9,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,VAN,Vankarem,4679.981659,4680.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,NUT,Nutepelmen,4736.167118,4736.2,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,AMG,Amguema,4719.951881,4720.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,EGV,Egvekinot,4792.027817,4792.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KAN,Kanchalan,4844.128345,4844.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,ANA,Anadyr,4903.195018,4903.2,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,VOR,Vorontsovo (Taymyr),1697.833611,1697.8,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KAU,Karaul,1719.189417,1719.2,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,DUD,Dudinka,1849.661754,1849.7,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,NOR,Norilsk,1926.753299,1926.8,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,UST,Ust-Avam,2033.593049,2033.6,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,VOL,Volochanka,2097.511249,2097.5,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KHE,Kheta,2249.855544,2249.9,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,DEP,Deputatsky,3623.967260,3624.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,CHK,Chkalov,3646.333881,3646.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,BEL,Belaya Gora,3853.026343,3853.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,OLE,Olenegorsk (Sakha),3776.023735,3776.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,AND,Andryushkino,3998.325174,3998.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,KOL,Kolymskoye,4135.114675,4135.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,BBI,Bilibino,4361.032260,4361.0,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,RYT,Rytkuchi,4358.495124,4358.5,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,AYO,Ayon,4206.307973,4206.3,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,BYK,Bykovsky,3125.419711,3125.4,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,SAS,Saskylakh,2692.139067,2692.1,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,BUG,Bugrino,409.806927,409.8,False,False,geographical_only_site_qualification_pending
+OST,Ostrovnoy,VAR,Varnek,842.175357,842.2,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,IND,Indiga,207.682039,207.7,True,False,geographical_only_site_qualification_pending
+SHO,Shoyna,NAR,Naryan-Mar,374.751525,374.8,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,CHE,Chernaya,519.849793,519.8,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KAR,Karatayka,716.253967,716.3,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,AMD,Amderma,734.260942,734.3,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,UKA,Ust-Kara,856.970141,857.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KHA,Kharasavey,954.538973,954.5,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,SEY,Seyakha,1150.567265,1150.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,SAB,Sabetta,1142.210575,1142.2,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,GYD,Gyda,1370.576454,1370.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,DIK,Dikson,1452.245732,1452.2,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KHT,Khatanga,2187.132398,2187.1,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,NOV,Novorybnaya,2266.314338,2266.3,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,SYN,Syndassko,2326.739072,2326.7,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,YUR,Yuryung-Khaya,2497.625618,2497.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,UOL,Ust-Olenek,2686.370217,2686.4,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,TAY,Taymylyr,2766.965333,2767.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,TIK,Tiksi,3026.682898,3026.7,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,NAI,Naiba,3132.855828,3132.9,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,NIZ,Nizhneyansk,3245.397012,3245.4,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,CHO,Chokurdakh,3619.116370,3619.1,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,RUS,Russkoye Ustye,3611.480244,3611.5,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,POK,Pokhodsk,4066.414752,4066.4,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,CHR,Chersky,4104.938284,4104.9,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,PEV,Pevek,4203.008663,4203.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,BIL,Billings,4285.996878,4286.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,RYR,Ryrkaypiy,4463.037833,4463.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,VAN,Vankarem,4631.426626,4631.4,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,NUT,Nutepelmen,4688.525007,4688.5,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,AMG,Amguema,4664.647309,4664.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,EGV,Egvekinot,4735.019355,4735.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KAN,Kanchalan,4777.653690,4777.7,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,ANA,Anadyr,4837.284636,4837.3,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,VOR,Vorontsovo (Taymyr),1547.239094,1547.2,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KAU,Karaul,1555.619363,1555.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,DUD,Dudinka,1683.337294,1683.3,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,NOR,Norilsk,1761.394274,1761.4,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,UST,Ust-Avam,1882.621347,1882.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,VOL,Volochanka,1946.648419,1946.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KHE,Kheta,2106.249186,2106.2,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,DEP,Deputatsky,3510.692006,3510.7,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,CHK,Chkalov,3543.804530,3543.8,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,BEL,Belaya Gora,3745.531069,3745.5,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,OLE,Olenegorsk (Sakha),3674.669361,3674.7,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,AND,Andryushkino,3904.766003,3904.8,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,KOL,Kolymskoye,4046.633338,4046.6,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,BBI,Bilibino,4282.959848,4283.0,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,RYT,Rytkuchi,4289.364805,4289.4,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,AYO,Ayon,4135.450395,4135.5,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,BYK,Bykovsky,3010.454684,3010.5,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,SAS,Saskylakh,2562.241418,2562.2,False,False,geographical_only_site_qualification_pending
+SHO,Shoyna,BUG,Bugrino,235.441285,235.4,True,False,geographical_only_site_qualification_pending
+SHO,Shoyna,VAR,Varnek,671.912794,671.9,False,False,geographical_only_site_qualification_pending
+IND,Indiga,NAR,Naryan-Mar,168.537656,168.5,True,False,geographical_only_site_qualification_pending
+IND,Indiga,CHE,Chernaya,330.510745,330.5,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KAR,Karatayka,526.545926,526.5,False,False,geographical_only_site_qualification_pending
+IND,Indiga,AMD,Amderma,561.973301,562.0,False,False,geographical_only_site_qualification_pending
+IND,Indiga,UKA,Ust-Kara,673.123823,673.1,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KHA,Kharasavey,799.698145,799.7,False,False,geographical_only_site_qualification_pending
+IND,Indiga,SEY,Seyakha,976.690403,976.7,False,False,geographical_only_site_qualification_pending
+IND,Indiga,SAB,Sabetta,982.391305,982.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,GYD,Gyda,1204.493525,1204.5,False,False,geographical_only_site_qualification_pending
+IND,Indiga,DIK,Dikson,1316.553211,1316.6,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KHT,Khatanga,2039.363633,2039.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,NOV,Novorybnaya,2127.192415,2127.2,False,False,geographical_only_site_qualification_pending
+IND,Indiga,SYN,Syndassko,2192.414675,2192.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,YUR,Yuryung-Khaya,2363.504634,2363.5,False,False,geographical_only_site_qualification_pending
+IND,Indiga,UOL,Ust-Olenek,2558.874798,2558.9,False,False,geographical_only_site_qualification_pending
+IND,Indiga,TAY,Taymylyr,2638.996141,2639.0,False,False,geographical_only_site_qualification_pending
+IND,Indiga,TIK,Tiksi,2900.169974,2900.2,False,False,geographical_only_site_qualification_pending
+IND,Indiga,NAI,Naiba,3004.388412,3004.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,NIZ,Nizhneyansk,3126.284778,3126.3,False,False,geographical_only_site_qualification_pending
+IND,Indiga,CHO,Chokurdakh,3511.572183,3511.6,False,False,geographical_only_site_qualification_pending
+IND,Indiga,RUS,Russkoye Ustye,3507.989615,3508.0,False,False,geographical_only_site_qualification_pending
+IND,Indiga,POK,Pokhodsk,3972.754801,3972.8,False,False,geographical_only_site_qualification_pending
+IND,Indiga,CHR,Chersky,4010.815152,4010.8,False,False,geographical_only_site_qualification_pending
+IND,Indiga,PEV,Pevek,4126.373972,4126.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,BIL,Billings,4218.936601,4218.9,False,False,geographical_only_site_qualification_pending
+IND,Indiga,RYR,Ryrkaypiy,4401.822646,4401.8,False,False,geographical_only_site_qualification_pending
+IND,Indiga,VAN,Vankarem,4574.445383,4574.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,NUT,Nutepelmen,4632.394875,4632.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,AMG,Amguema,4600.392341,4600.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,EGV,Egvekinot,4668.800904,4668.8,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KAN,Kanchalan,4701.256284,4701.3,False,False,geographical_only_site_qualification_pending
+IND,Indiga,ANA,Anadyr,4761.374093,4761.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,VOR,Vorontsovo (Taymyr),1389.781985,1389.8,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KAU,Karaul,1382.479974,1382.5,False,False,geographical_only_site_qualification_pending
+IND,Indiga,DUD,Dudinka,1506.281172,1506.3,False,False,geographical_only_site_qualification_pending
+IND,Indiga,NOR,Norilsk,1585.139603,1585.1,False,False,geographical_only_site_qualification_pending
+IND,Indiga,UST,Ust-Avam,1722.572238,1722.6,False,False,geographical_only_site_qualification_pending
+IND,Indiga,VOL,Volochanka,1786.406276,1786.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KHE,Kheta,1953.582647,1953.6,False,False,geographical_only_site_qualification_pending
+IND,Indiga,DEP,Deputatsky,3386.869532,3386.9,False,False,geographical_only_site_qualification_pending
+IND,Indiga,CHK,Chkalov,3431.527908,3431.5,False,False,geographical_only_site_qualification_pending
+IND,Indiga,BEL,Belaya Gora,3627.389450,3627.4,False,False,geographical_only_site_qualification_pending
+IND,Indiga,OLE,Olenegorsk (Sakha),3563.323433,3563.3,False,False,geographical_only_site_qualification_pending
+IND,Indiga,AND,Andryushkino,3801.255873,3801.3,False,False,geographical_only_site_qualification_pending
+IND,Indiga,KOL,Kolymskoye,3948.246947,3948.2,False,False,geographical_only_site_qualification_pending
+IND,Indiga,BBI,Bilibino,4195.197742,4195.2,False,False,geographical_only_site_qualification_pending
+IND,Indiga,RYT,Rytkuchi,4211.160855,4211.2,False,False,geographical_only_site_qualification_pending
+IND,Indiga,AYO,Ayon,4055.760351,4055.8,False,False,geographical_only_site_qualification_pending
+IND,Indiga,BYK,Bykovsky,2886.215403,2886.2,False,False,geographical_only_site_qualification_pending
+IND,Indiga,SAS,Saskylakh,2423.096968,2423.1,False,False,geographical_only_site_qualification_pending
+IND,Indiga,BUG,Bugrino,126.188099,126.2,True,False,geographical_only_site_qualification_pending
+IND,Indiga,VAR,Varnek,501.709093,501.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,CHE,Chernaya,182.724753,182.7,True,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KAR,Karatayka,370.021940,370.0,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,AMD,Amderma,423.038908,423.0,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,UKA,Ust-Kara,519.826424,519.8,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KHA,Kharasavey,671.342567,671.3,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,SEY,Seyakha,828.696565,828.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,SAB,Sabetta,846.368136,846.4,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,GYD,Gyda,1061.102652,1061.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,DIK,Dikson,1197.231476,1197.2,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KHT,Khatanga,1906.250194,1906.3,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,NOV,Novorybnaya,2000.362872,2000.4,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,SYN,Syndassko,2069.033244,2069.0,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,YUR,Yuryung-Khaya,2239.727200,2239.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,UOL,Ust-Olenek,2439.571574,2439.6,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,TAY,Taymylyr,2519.119115,2519.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,TIK,Tiksi,2780.770569,2780.8,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,NAI,Naiba,2883.307490,2883.3,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,NIZ,Nizhneyansk,3011.975684,3012.0,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,CHO,Chokurdakh,3405.250786,3405.3,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,RUS,Russkoye Ustye,3404.748280,3404.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,POK,Pokhodsk,3876.171032,3876.2,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,CHR,Chersky,3913.817800,3913.8,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,PEV,Pevek,4042.572426,4042.6,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,BIL,Billings,4142.376877,4142.4,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,RYR,Ryrkaypiy,4329.494209,4329.5,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,VAN,Vankarem,4505.134705,4505.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,NUT,Nutepelmen,4563.657378,4563.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,AMG,Amguema,4525.397364,4525.4,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,EGV,Egvekinot,4592.187667,4592.2,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KAN,Kanchalan,4616.768861,4616.8,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,ANA,Anadyr,4677.178926,4677.2,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,VOR,Vorontsovo (Taymyr),1252.085264,1252.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KAU,Karaul,1232.619183,1232.6,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,DUD,Dudinka,1353.098179,1353.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,NOR,Norilsk,1432.309504,1432.3,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,UST,Ust-Avam,1581.271419,1581.3,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,VOL,Volochanka,1644.734605,1644.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KHE,Kheta,1817.050820,1817.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,DEP,Deputatsky,3268.552005,3268.6,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,CHK,Chkalov,3321.779154,3321.8,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,BEL,Belaya Gora,3512.912454,3512.9,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,OLE,Olenegorsk (Sakha),3454.041381,3454.0,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,AND,Andryushkino,3697.482935,3697.5,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,KOL,Kolymskoye,3848.113756,3848.1,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,BBI,Bilibino,4102.754816,4102.8,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,RYT,Rytkuchi,4126.011499,4126.0,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,AYO,Ayon,3969.726934,3969.7,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,BYK,Bykovsky,2768.558519,2768.6,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,SAS,Saskylakh,2295.354479,2295.4,False,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,BUG,Bugrino,199.282406,199.3,True,False,geographical_only_site_qualification_pending
+NAR,Naryan-Mar,VAR,Varnek,367.774291,367.8,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KAR,Karatayka,196.931260,196.9,True,False,geographical_only_site_qualification_pending
+CHE,Chernaya,AMD,Amderma,240.350714,240.4,True,False,geographical_only_site_qualification_pending
+CHE,Chernaya,UKA,Ust-Kara,342.667216,342.7,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KHA,Kharasavey,489.658354,489.7,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,SEY,Seyakha,648.462156,648.5,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,SAB,Sabetta,663.644846,663.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,GYD,Gyda,879.436800,879.4,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,DIK,Dikson,1016.631149,1016.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KHT,Khatanga,1723.528267,1723.5,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,NOV,Novorybnaya,1817.928954,1817.9,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,SYN,Syndassko,1887.019119,1887.0,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,YUR,Yuryung-Khaya,2057.615909,2057.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,UOL,Ust-Olenek,2258.164214,2258.2,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,TAY,Taymylyr,2337.581521,2337.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,TIK,Tiksi,2599.262862,2599.3,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,NAI,Naiba,2701.487299,2701.5,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,NIZ,Nizhneyansk,2831.506763,2831.5,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,CHO,Chokurdakh,3226.901720,3226.9,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,RUS,Russkoye Ustye,3227.415304,3227.4,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,POK,Pokhodsk,3701.106759,3701.1,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,CHR,Chersky,3738.578396,3738.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,PEV,Pevek,3873.008976,3873.0,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,BIL,Billings,3976.383174,3976.4,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,RYR,Ryrkaypiy,4165.644381,4165.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,VAN,Vankarem,4342.844041,4342.8,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,NUT,Nutepelmen,4401.653175,4401.7,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,AMG,Amguema,4360.010987,4360.0,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,EGV,Egvekinot,4425.923843,4425.9,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KAN,Kanchalan,4446.618535,4446.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,ANA,Anadyr,4507.141269,4507.1,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,VOR,Vorontsovo (Taymyr),1069.527385,1069.5,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KAU,Karaul,1053.589053,1053.6,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,DUD,Dudinka,1176.221264,1176.2,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,NOR,Norilsk,1255.196130,1255.2,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,UST,Ust-Avam,1399.328383,1399.3,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,VOL,Volochanka,1462.885297,1462.9,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KHE,Kheta,1634.480070,1634.5,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,DEP,Deputatsky,3087.159244,3087.2,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,CHK,Chkalov,3142.426475,3142.4,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,BEL,Belaya Gora,3332.291297,3332.3,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,OLE,Olenegorsk (Sakha),3274.784931,3274.8,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,AND,Andryushkino,3519.868849,3519.9,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,KOL,Kolymskoye,3671.720553,3671.7,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,BBI,Bilibino,3929.280197,3929.3,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,RYT,Rytkuchi,3955.767614,3955.8,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,AYO,Ayon,3799.147659,3799.1,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,BYK,Bykovsky,2587.397403,2587.4,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,SAS,Saskylakh,2112.802426,2112.8,False,False,geographical_only_site_qualification_pending
+CHE,Chernaya,BUG,Bugrino,295.715105,295.7,True,True,geographical_only_site_qualification_pending
+CHE,Chernaya,VAR,Varnek,186.491482,186.5,True,False,geographical_only_site_qualification_pending
+KAR,Karatayka,AMD,Amderma,111.827694,111.8,True,False,geographical_only_site_qualification_pending
+KAR,Karatayka,UKA,Ust-Kara,150.569859,150.6,True,False,geographical_only_site_qualification_pending
+KAR,Karatayka,KHA,Kharasavey,341.864203,341.9,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,SEY,Seyakha,461.274704,461.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,SAB,Sabetta,493.464011,493.5,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,GYD,Gyda,696.327790,696.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,DIK,Dikson,863.550256,863.6,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,KHT,Khatanga,1548.130518,1548.1,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,NOV,Novorybnaya,1648.882039,1648.9,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,SYN,Syndassko,1721.452020,1721.5,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,YUR,Yuryung-Khaya,1891.014159,1891.0,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,UOL,Ust-Olenek,2095.695047,2095.7,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,TAY,Taymylyr,2174.265662,2174.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,TIK,Tiksi,2435.770844,2435.8,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,NAI,Naiba,2536.047825,2536.0,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,NIZ,Nizhneyansk,2672.759905,2672.8,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,CHO,Chokurdakh,3075.612347,3075.6,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,RUS,Russkoye Ustye,3079.374256,3079.4,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,POK,Pokhodsk,3559.053890,3559.1,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,CHR,Chersky,3596.010309,3596.0,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,PEV,Pevek,3744.261840,3744.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,BIL,Billings,3855.267815,3855.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,RYR,Ryrkaypiy,4048.688879,4048.7,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,VAN,Vankarem,4228.766808,4228.8,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,NUT,Nutepelmen,4288.065019,4288.1,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,AMG,Amguema,4239.689033,4239.7,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,EGV,Egvekinot,4303.706038,4303.7,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,KAN,Kanchalan,4315.916137,4315.9,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,ANA,Anadyr,4376.637432,4376.6,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,VOR,Vorontsovo (Taymyr),891.930422,891.9,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,KAU,Karaul,863.213710,863.2,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,DUD,Dudinka,983.077049,983.1,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,NOR,Norilsk,1062.288636,1062.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,UST,Ust-Avam,1216.455257,1216.5,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,VOL,Volochanka,1279.494419,1279.5,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,KHE,Kheta,1455.813466,1455.8,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,DEP,Deputatsky,2923.796576,2923.8,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,CHK,Chkalov,2987.737634,2987.7,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,BEL,Belaya Gora,3172.388684,3172.4,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,OLE,Olenegorsk (Sakha),3120.306918,3120.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,AND,Andryushkino,3370.630781,3370.6,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,KOL,Kolymskoye,3525.988256,3526.0,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,BBI,Bilibino,3791.140147,3791.1,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,RYT,Rytkuchi,3825.369439,3825.4,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,AYO,Ayon,3668.163569,3668.2,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,BYK,Bykovsky,2425.745440,2425.7,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,SAS,Saskylakh,1941.887639,1941.9,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,BUG,Bugrino,488.339329,488.3,False,False,geographical_only_site_qualification_pending
+KAR,Karatayka,VAR,Varnek,118.930673,118.9,True,False,geographical_only_site_qualification_pending
+AMD,Amderma,UKA,Ust-Kara,139.578974,139.6,True,False,geographical_only_site_qualification_pending
+AMD,Amderma,KHA,Kharasavey,251.583682,251.6,True,False,geographical_only_site_qualification_pending
+AMD,Amderma,SEY,Seyakha,416.681275,416.7,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,SAB,Sabetta,423.475513,423.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,GYD,Gyda,642.532718,642.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,DIK,Dikson,779.308003,779.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,KHT,Khatanga,1483.323437,1483.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,NOV,Novorybnaya,1577.724682,1577.7,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,SYN,Syndassko,1647.260769,1647.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,YUR,Yuryung-Khaya,1817.734454,1817.7,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,UOL,Ust-Olenek,2019.102229,2019.1,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,TAY,Taymylyr,2098.350284,2098.4,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,TIK,Tiksi,2360.043024,2360.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,NAI,Naiba,2461.896071,2461.9,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,NIZ,Nizhneyansk,2593.545144,2593.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,CHO,Chokurdakh,2991.602705,2991.6,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,RUS,Russkoye Ustye,2993.454641,2993.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,POK,Pokhodsk,3470.003269,3470.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,CHR,Chersky,3507.231058,3507.2,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,PEV,Pevek,3649.185121,3649.2,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,BIL,Billings,3757.310894,3757.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,RYR,Ryrkaypiy,3949.340077,3949.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,VAN,Vankarem,4128.519841,4128.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,NUT,Nutepelmen,4187.674739,4187.7,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,AMG,Amguema,4141.524114,4141.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,EGV,Egvekinot,4206.228818,4206.2,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,KAN,Kanchalan,4221.749794,4221.7,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,ANA,Anadyr,4282.397810,4282.4,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,VOR,Vorontsovo (Taymyr),829.994495,830.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,KAU,Karaul,822.426485,822.4,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,DUD,Dudinka,949.130219,949.1,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,NOR,Norilsk,1027.327603,1027.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,UST,Ust-Avam,1161.226796,1161.2,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,VOL,Volochanka,1224.962373,1225.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,KHE,Kheta,1394.812672,1394.8,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,DEP,Deputatsky,2848.038821,2848.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,CHK,Chkalov,2905.840955,2905.8,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,BEL,Belaya Gora,3094.079643,3094.1,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,OLE,Olenegorsk (Sakha),3038.298991,3038.3,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,AND,Andryushkino,3285.460755,3285.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,KOL,Kolymskoye,3438.872574,3438.9,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,BBI,Bilibino,3700.204606,3700.2,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,RYT,Rytkuchi,3730.988345,3731.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,AYO,Ayon,3573.995897,3574.0,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,BYK,Bykovsky,2348.600599,2348.6,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,SAS,Saskylakh,1872.499004,1872.5,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,BUG,Bugrino,499.358709,499.4,False,False,geographical_only_site_qualification_pending
+AMD,Amderma,VAR,Varnek,62.535079,62.5,True,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,KHA,Kharasavey,228.584296,228.6,True,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,SEY,Seyakha,310.878899,310.9,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,SAB,Sabetta,351.414969,351.4,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,GYD,Gyda,546.512164,546.5,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,DIK,Dikson,728.050312,728.1,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,KHT,Khatanga,1399.754278,1399.8,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,NOV,Novorybnaya,1502.692101,1502.7,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,SYN,Syndassko,1576.604545,1576.6,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,YUR,Yuryung-Khaya,1745.580922,1745.6,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,UOL,Ust-Olenek,1951.809086,1951.8,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,TAY,Taymylyr,2029.960153,2030.0,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,TIK,Tiksi,2291.222430,2291.2,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,NAI,Naiba,2390.670869,2390.7,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,NIZ,Nizhneyansk,2530.074581,2530.1,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,CHO,Chokurdakh,2936.060937,2936.1,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,RUS,Russkoye Ustye,2941.367901,2941.4,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,POK,Pokhodsk,3423.697408,3423.7,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,CHR,Chersky,3460.374973,3460.4,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,PEV,Pevek,3615.739601,3615.7,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,BIL,Billings,3730.878965,3730.9,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,RYR,Ryrkaypiy,3926.504406,3926.5,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,VAN,Vankarem,4108.093784,4108.1,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,NUT,Nutepelmen,4167.629668,4167.6,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,AMG,Amguema,4115.467099,4115.5,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,EGV,Egvekinot,4178.387174,4178.4,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,KAN,Kanchalan,4185.989427,4186.0,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,ANA,Anadyr,4246.783663,4246.8,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,VOR,Vorontsovo (Taymyr),743.528473,743.5,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,KAU,Karaul,712.877792,712.9,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,DUD,Dudinka,833.827148,833.8,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,NOR,Norilsk,912.911894,912.9,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,UST,Ust-Avam,1066.326811,1066.3,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,VOL,Volochanka,1129.259439,1129.3,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,KHE,Kheta,1306.534532,1306.5,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,DEP,Deputatsky,2779.066395,2779.1,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,CHK,Chkalov,2846.671516,2846.7,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,BEL,Belaya Gora,3028.966547,3029.0,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,OLE,Olenegorsk (Sakha),2979.264450,2979.3,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,AND,Andryushkino,3231.878469,3231.9,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,KOL,Kolymskoye,3388.834160,3388.8,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,BBI,Bilibino,3657.629553,3657.6,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,RYT,Rytkuchi,3695.899534,3695.9,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,AYO,Ayon,3538.488316,3538.5,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,BYK,Bykovsky,2281.966794,2282.0,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,SAS,Saskylakh,1794.781458,1794.8,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,BUG,Bugrino,624.688735,624.7,False,False,geographical_only_site_qualification_pending
+UKA,Ust-Kara,VAR,Varnek,197.453202,197.5,True,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,SEY,Seyakha,236.223730,236.2,True,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,SAB,Sabetta,188.955277,189.0,True,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,GYD,Gyda,420.962148,421.0,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,DIK,Dikson,527.746490,527.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,KHT,Khatanga,1239.666625,1239.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,NOV,Novorybnaya,1329.715266,1329.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,SYN,Syndassko,1397.713383,1397.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,YUR,Yuryung-Khaya,1568.458422,1568.5,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,UOL,Ust-Olenek,1768.505897,1768.5,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,TAY,Taymylyr,1847.937497,1847.9,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,TIK,Tiksi,2109.614601,2109.6,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,NAI,Naiba,2211.977397,2212.0,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,NIZ,Nizhneyansk,2342.246445,2342.2,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,CHO,Chokurdakh,2740.075424,2740.1,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,RUS,Russkoye Ustye,2742.171789,2742.2,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,POK,Pokhodsk,3219.613348,3219.6,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,CHR,Chersky,3256.742608,3256.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,PEV,Pevek,3402.473905,3402.5,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,BIL,Billings,3513.570395,3513.6,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,RYR,Ryrkaypiy,3707.398321,3707.4,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,VAN,Vankarem,3887.883074,3887.9,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,NUT,Nutepelmen,3947.255691,3947.3,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,AMG,Amguema,3898.025838,3898.0,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,EGV,Egvekinot,3961.918181,3961.9,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,KAN,Kanchalan,3974.297252,3974.3,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,ANA,Anadyr,4035.003821,4035.0,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,VOR,Vorontsovo (Taymyr),592.878574,592.9,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,KAU,Karaul,614.709634,614.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,DUD,Dudinka,748.788626,748.8,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,NOR,Norilsk,823.514147,823.5,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,UST,Ust-Avam,928.085675,928.1,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,VOL,Volochanka,992.112121,992.1,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,KHE,Kheta,1154.591793,1154.6,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,DEP,Deputatsky,2597.501177,2597.5,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,CHK,Chkalov,2654.267421,2654.3,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,BEL,Belaya Gora,2842.897031,2842.9,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,OLE,Olenegorsk (Sakha),2786.721108,2786.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,AND,Andryushkino,3034.067923,3034.1,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,KOL,Kolymskoye,3187.870146,3187.9,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,BBI,Bilibino,3450.662928,3450.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,RYT,Rytkuchi,3483.695479,3483.7,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,AYO,Ayon,3326.529651,3326.5,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,BYK,Bykovsky,2097.769779,2097.8,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,SAS,Saskylakh,1625.153813,1625.2,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,BUG,Bugrino,720.355874,720.4,False,False,geographical_only_site_qualification_pending
+KHA,Kharasavey,VAR,Varnek,303.569635,303.6,False,True,geographical_only_site_qualification_pending
+SEY,Seyakha,SAB,Sabetta,120.274070,120.3,True,False,geographical_only_site_qualification_pending
+SEY,Seyakha,GYD,Gyda,236.698432,236.7,True,False,geographical_only_site_qualification_pending
+SEY,Seyakha,DIK,Dikson,465.009058,465.0,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,KHT,Khatanga,1091.787732,1091.8,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,NOV,Novorybnaya,1199.168750,1199.2,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,SYN,Syndassko,1275.884434,1275.9,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,YUR,Yuryung-Khaya,1443.269725,1443.3,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,UOL,Ust-Olenek,1652.447567,1652.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,TAY,Taymylyr,1729.598299,1729.6,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,TIK,Tiksi,1990.052526,1990.1,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,NAI,Naiba,2087.766500,2087.8,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,NIZ,Nizhneyansk,2232.421516,2232.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,CHO,Chokurdakh,2644.319939,2644.3,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,RUS,Russkoye Ustye,2652.784282,2652.8,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,POK,Pokhodsk,3139.916763,3139.9,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,CHR,Chersky,3175.983315,3176.0,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,PEV,Pevek,3345.715335,3345.7,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,BIL,Billings,3469.210477,3469.2,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,RYR,Ryrkaypiy,3669.050499,3669.1,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,VAN,Vankarem,3853.444950,3853.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,NUT,Nutepelmen,3913.370055,3913.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,AMG,Amguema,3853.512360,3853.5,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,EGV,Egvekinot,3914.097190,3914.1,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,KAN,Kanchalan,3912.325381,3912.3,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,ANA,Anadyr,3973.198643,3973.2,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,VOR,Vorontsovo (Taymyr),436.962287,437.0,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,KAU,Karaul,405.930499,405.9,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,DUD,Dudinka,532.954418,533.0,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,NOR,Norilsk,610.831365,610.8,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,UST,Ust-Avam,755.565559,755.6,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,VOL,Volochanka,818.413373,818.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,KHE,Kheta,996.944953,996.9,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,DEP,Deputatsky,2477.145666,2477.1,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,CHK,Chkalov,2551.955451,2552.0,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,BEL,Belaya Gora,2729.414761,2729.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,OLE,Olenegorsk (Sakha),2684.460806,2684.5,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,AND,Andryushkino,2941.429022,2941.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,KOL,Kolymskoye,3101.445245,3101.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,BBI,Bilibino,3377.320691,3377.3,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,RYT,Rytkuchi,3423.800028,3423.8,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,AYO,Ayon,3266.206721,3266.2,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,BYK,Bykovsky,1982.369532,1982.4,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,SAS,Saskylakh,1488.968918,1489.0,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,BUG,Bugrino,915.323136,915.3,False,False,geographical_only_site_qualification_pending
+SEY,Seyakha,VAR,Varnek,478.777876,478.8,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,GYD,Gyda,232.540958,232.5,True,False,geographical_only_site_qualification_pending
+SAB,Sabetta,DIK,Dikson,379.440571,379.4,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,KHT,Khatanga,1059.884362,1059.9,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,NOV,Novorybnaya,1156.376710,1156.4,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,SYN,Syndassko,1228.106241,1228.1,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,YUR,Yuryung-Khaya,1397.878331,1397.9,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,UOL,Ust-Olenek,1602.240595,1602.2,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,TAY,Taymylyr,1680.805350,1680.8,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,TIK,Tiksi,1942.325565,1942.3,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,NAI,Naiba,2042.809042,2042.8,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,NIZ,Nizhneyansk,2179.626560,2179.6,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,CHO,Chokurdakh,2584.662957,2584.7,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,RUS,Russkoye Ustye,2590.015305,2590.0,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,POK,Pokhodsk,3072.956287,3073.0,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,CHR,Chersky,3109.535654,3109.5,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,PEV,Pevek,3268.911036,3268.9,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,BIL,Billings,3387.531865,3387.5,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,RYR,Ryrkaypiy,3585.189530,3585.2,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,VAN,Vankarem,3768.222134,3768.2,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,NUT,Nutepelmen,3827.972387,3828.0,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,AMG,Amguema,3772.096056,3772.1,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,EGV,Egvekinot,3834.001148,3834.0,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,KAN,Kanchalan,3837.993472,3838.0,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,ANA,Anadyr,3898.824366,3898.8,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,VOR,Vorontsovo (Taymyr),407.390738,407.4,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,KAU,Karaul,428.491135,428.5,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,DUD,Dudinka,563.922636,563.9,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,NOR,Norilsk,637.171002,637.2,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,UST,Ust-Avam,741.165953,741.2,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,VOL,Volochanka,805.146376,805.1,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,KHE,Kheta,971.665083,971.7,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,DEP,Deputatsky,2430.364842,2430.4,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,CHK,Chkalov,2495.533429,2495.5,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,BEL,Belaya Gora,2679.033599,2679.0,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,OLE,Olenegorsk (Sakha),2628.124133,2628.1,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,AND,Andryushkino,2880.466574,2880.5,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,KOL,Kolymskoye,3037.599773,3037.6,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,BBI,Bilibino,3307.634744,3307.6,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,RYT,Rytkuchi,3348.342542,3348.3,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,AYO,Ayon,3190.831352,3190.8,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,BYK,Bykovsky,1932.308275,1932.3,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,SAS,Saskylakh,1450.341349,1450.3,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,BUG,Bugrino,907.467706,907.5,False,False,geographical_only_site_qualification_pending
+SAB,Sabetta,VAR,Varnek,481.382357,481.4,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,DIK,Dikson,299.812310,299.8,True,True,geographical_only_site_qualification_pending
+GYD,Gyda,KHT,Khatanga,855.217129,855.2,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,NOV,Novorybnaya,964.519647,964.5,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,SYN,Syndassko,1042.848256,1042.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,YUR,Yuryung-Khaya,1209.057559,1209.1,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,UOL,Ust-Olenek,1419.753441,1419.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,TAY,Taymylyr,1496.240590,1496.2,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,TIK,Tiksi,1756.072114,1756.1,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,NAI,Naiba,1852.873945,1852.9,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,NIZ,Nizhneyansk,2000.237846,2000.2,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,CHO,Chokurdakh,2415.355872,2415.4,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,RUS,Russkoye Ustye,2425.784486,2425.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,POK,Pokhodsk,2915.539035,2915.5,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,CHR,Chersky,2951.186155,2951.2,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,PEV,Pevek,3130.218901,3130.2,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,BIL,Billings,3259.281178,3259.3,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,RYR,Ryrkaypiy,3461.760826,3461.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,VAN,Vankarem,3647.847698,3647.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,NUT,Nutepelmen,3707.962737,3708.0,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,AMG,Amguema,3642.895573,3642.9,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,EGV,Egvekinot,3701.830967,3701.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,KAN,Kanchalan,3693.837269,3693.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,ANA,Anadyr,3754.712815,3754.7,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,VOR,Vorontsovo (Taymyr),202.435087,202.4,True,False,geographical_only_site_qualification_pending
+GYD,Gyda,KAU,Karaul,198.632532,198.6,True,False,geographical_only_site_qualification_pending
+GYD,Gyda,DUD,Dudinka,335.189964,335.2,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,NOR,Norilsk,406.047836,406.0,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,UST,Ust-Avam,520.359925,520.4,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,VOL,Volochanka,583.678934,583.7,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,KHE,Kheta,760.319384,760.3,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,DEP,Deputatsky,2242.592845,2242.6,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,CHK,Chkalov,2321.267653,2321.3,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,BEL,Belaya Gora,2495.955232,2496.0,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,OLE,Olenegorsk (Sakha),2453.637744,2453.6,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,AND,Andryushkino,2713.036255,2713.0,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,KOL,Kolymskoye,2874.821966,2874.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,BBI,Bilibino,3154.969591,3155.0,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,RYT,Rytkuchi,3206.812070,3206.8,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,AYO,Ayon,3049.279015,3049.3,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,BYK,Bykovsky,1749.251871,1749.3,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,SAS,Saskylakh,1253.005699,1253.0,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,BUG,Bugrino,1135.293707,1135.3,False,False,geographical_only_site_qualification_pending
+GYD,Gyda,VAR,Varnek,703.087128,703.1,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,KHT,Khatanga,741.865418,741.9,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,NOV,Novorybnaya,814.069309,814.1,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,SYN,Syndassko,876.204282,876.2,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,YUR,Yuryung-Khaya,1047.319170,1047.3,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,UOL,Ust-Olenek,1243.051206,1243.1,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,TAY,Taymylyr,1322.931218,1322.9,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,TIK,Tiksi,1584.388375,1584.4,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,NAI,Naiba,1688.012615,1688.0,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,NIZ,Nizhneyansk,1814.886163,1814.9,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,CHO,Chokurdakh,2212.799782,2212.8,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,RUS,Russkoye Ustye,2215.877228,2215.9,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,POK,Pokhodsk,2696.116832,2696.1,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,CHR,Chersky,2732.930646,2732.9,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,PEV,Pevek,2889.477994,2889.5,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,BIL,Billings,3008.599720,3008.6,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,RYR,Ryrkaypiy,3206.931579,3206.9,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,VAN,Vankarem,3390.537805,3390.5,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,NUT,Nutepelmen,3450.372640,3450.4,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,AMG,Amguema,3393.125967,3393.1,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,EGV,Egvekinot,3454.784031,3454.8,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,KAN,Kanchalan,3458.743865,3458.7,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,ANA,Anadyr,3519.566090,3519.6,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,VOR,Vorontsovo (Taymyr),225.788020,225.8,True,False,geographical_only_site_qualification_pending
+DIK,Dikson,KAU,Karaul,394.603623,394.6,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,DUD,Dudinka,499.005968,499.0,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,NOR,Norilsk,536.803925,536.8,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,UST,Ust-Avam,493.798990,493.8,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,VOL,Volochanka,552.380567,552.4,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,KHE,Kheta,673.049261,673.0,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,DEP,Deputatsky,2071.804046,2071.8,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,CHK,Chkalov,2126.535774,2126.5,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,BEL,Belaya Gora,2315.731730,2315.7,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,OLE,Olenegorsk (Sakha),2259.000985,2259.0,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,AND,Andryushkino,2507.328465,2507.3,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,KOL,Kolymskoye,2662.455142,2662.5,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,BBI,Bilibino,2929.591301,2929.6,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,RYT,Rytkuchi,2968.988394,2969.0,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,AYO,Ayon,2811.492422,2811.5,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,BYK,Bykovsky,1571.524930,1571.5,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,SAS,Saskylakh,1110.015620,1110.0,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,BUG,Bugrino,1224.805559,1224.8,False,False,geographical_only_site_qualification_pending
+DIK,Dikson,VAR,Varnek,830.153925,830.2,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,NOV,Novorybnaya,147.626525,147.6,True,False,geographical_only_site_qualification_pending
+KHT,Khatanga,SYN,Syndassko,239.136406,239.1,True,False,geographical_only_site_qualification_pending
+KHT,Khatanga,YUR,Yuryung-Khaya,374.528856,374.5,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,UOL,Ust-Olenek,591.605896,591.6,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,TAY,Taymylyr,661.046337,661.0,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,TIK,Tiksi,913.447874,913.4,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,NAI,Naiba,1004.541077,1004.5,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,NIZ,Nizhneyansk,1165.897062,1165.9,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,CHO,Chokurdakh,1594.277952,1594.3,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,RUS,Russkoye Ustye,1614.604612,1614.6,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,POK,Pokhodsk,2112.195355,2112.2,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,CHR,Chersky,2145.580079,2145.6,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,PEV,Pevek,2365.687913,2365.7,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,BIL,Billings,2518.302282,2518.3,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,RYR,Ryrkaypiy,2729.706264,2729.7,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,VAN,Vankarem,2920.736408,2920.7,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,NUT,Nutepelmen,2980.917828,2980.9,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,AMG,Amguema,2894.065011,2894.1,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,EGV,Egvekinot,2945.253699,2945.3,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,KAN,Kanchalan,2910.520456,2910.5,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,ANA,Anadyr,2970.965447,2971.0,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,VOR,Vorontsovo (Taymyr),656.258902,656.3,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,KAU,Karaul,727.332469,727.3,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,DUD,Dudinka,663.527638,663.5,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,NOR,Norilsk,601.589946,601.6,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,UST,Ust-Avam,353.973764,354.0,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,VOL,Volochanka,302.637247,302.6,False,True,geographical_only_site_qualification_pending
+KHT,Khatanga,KHE,Kheta,108.533094,108.5,True,False,geographical_only_site_qualification_pending
+KHT,Khatanga,DEP,Deputatsky,1394.744313,1394.7,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,CHK,Chkalov,1492.206298,1492.2,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,BEL,Belaya Gora,1652.456287,1652.5,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,OLE,Olenegorsk (Sakha),1622.956791,1623.0,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,AND,Andryushkino,1892.362574,1892.4,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,KOL,Kolymskoye,2061.311985,2061.3,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,BBI,Bilibino,2358.876056,2358.9,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,RYT,Rytkuchi,2434.557903,2434.6,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,AYO,Ayon,2279.190287,2279.2,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,BYK,Bykovsky,911.951477,912.0,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,SAS,Saskylakh,400.948159,400.9,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,BUG,Bugrino,1956.036264,1956.0,False,False,geographical_only_site_qualification_pending
+KHT,Khatanga,VAR,Varnek,1540.502061,1540.5,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,SYN,Syndassko,91.856643,91.9,True,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,YUR,Yuryung-Khaya,244.856805,244.9,True,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,UOL,Ust-Olenek,459.211937,459.2,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,TAY,Taymylyr,533.262295,533.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,TIK,Tiksi,791.774239,791.8,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,NAI,Naiba,888.600914,888.6,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,NIZ,Nizhneyansk,1038.971882,1039.0,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,CHO,Chokurdakh,1462.324387,1462.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,RUS,Russkoye Ustye,1479.569350,1479.6,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,POK,Pokhodsk,1975.952817,1976.0,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,CHR,Chersky,2009.921380,2009.9,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,PEV,Pevek,2223.222212,2223.2,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,BIL,Billings,2373.664041,2373.7,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,RYR,Ryrkaypiy,2584.566045,2584.6,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,VAN,Vankarem,2775.391436,2775.4,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,NUT,Nutepelmen,2835.606112,2835.6,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,AMG,Amguema,2750.418676,2750.4,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,EGV,Egvekinot,2802.422672,2802.4,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,KAN,Kanchalan,2771.206210,2771.2,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,ANA,Anadyr,2831.769977,2831.8,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,VOR,Vorontsovo (Taymyr),762.440328,762.4,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,KAU,Karaul,853.268433,853.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,DUD,Dudinka,800.322910,800.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,NOR,Norilsk,742.137033,742.1,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,UST,Ust-Avam,486.651100,486.7,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,VOL,Volochanka,441.509497,441.5,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,KHE,Kheta,253.005213,253.0,True,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,DEP,Deputatsky,1278.097723,1278.1,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,CHK,Chkalov,1363.242439,1363.2,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,BEL,Belaya Gora,1531.958768,1532.0,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,OLE,Olenegorsk (Sakha),1494.918042,1494.9,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,AND,Andryushkino,1760.722983,1760.7,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,KOL,Kolymskoye,1927.642399,1927.6,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,BBI,Bilibino,2221.354259,2221.4,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,RYT,Rytkuchi,2293.149447,2293.1,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,AYO,Ayon,2137.317499,2137.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,BYK,Bykovsky,786.295789,786.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,SAS,Saskylakh,296.084242,296.1,True,True,geographical_only_site_qualification_pending
+NOV,Novorybnaya,BUG,Bugrino,2038.316325,2038.3,False,False,geographical_only_site_qualification_pending
+NOV,Novorybnaya,VAR,Varnek,1632.870286,1632.9,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,YUR,Yuryung-Khaya,171.115918,171.1,True,False,geographical_only_site_qualification_pending
+SYN,Syndassko,UOL,Ust-Olenek,376.933094,376.9,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,TAY,Taymylyr,453.730770,453.7,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,TIK,Tiksi,714.645524,714.6,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,NAI,Naiba,814.791603,814.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,NIZ,Nizhneyansk,957.533318,957.5,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,CHO,Chokurdakh,1377.291564,1377.3,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,RUS,Russkoye Ustye,1392.814535,1392.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,POK,Pokhodsk,1888.338883,1888.3,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,CHR,Chersky,1922.597045,1922.6,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,PEV,Pevek,2132.628739,2132.6,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,BIL,Billings,2282.253003,2282.3,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,RYR,Ryrkaypiy,2492.998120,2493.0,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,VAN,Vankarem,2683.764659,2683.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,NUT,Nutepelmen,2743.987195,2744.0,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,AMG,Amguema,2659.334969,2659.3,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,EGV,Egvekinot,2711.644697,2711.6,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,KAN,Kanchalan,2681.945894,2681.9,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,ANA,Anadyr,2742.558121,2742.6,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,VOR,Vorontsovo (Taymyr),840.415950,840.4,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,KAU,Karaul,938.823651,938.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,DUD,Dudinka,889.840274,889.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,NOR,Norilsk,832.836583,832.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,UST,Ust-Avam,575.669583,575.7,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,VOL,Volochanka,532.224250,532.2,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,KHE,Kheta,344.842685,344.8,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,DEP,Deputatsky,1202.475136,1202.5,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,CHK,Chkalov,1280.026625,1280.0,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,BEL,Belaya Gora,1453.530652,1453.5,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,OLE,Olenegorsk (Sakha),1412.093594,1412.1,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,AND,Andryushkino,1675.654958,1675.7,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,KOL,Kolymskoye,1841.391803,1841.4,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,BBI,Bilibino,2133.033607,2133.0,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,RYT,Rytkuchi,2202.998309,2203.0,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,AYO,Ayon,2046.982116,2047.0,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,BYK,Bykovsky,706.521351,706.5,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,SAS,Saskylakh,243.936119,243.9,True,False,geographical_only_site_qualification_pending
+SYN,Syndassko,BUG,Bugrino,2100.733371,2100.7,False,False,geographical_only_site_qualification_pending
+SYN,Syndassko,VAR,Varnek,1701.264440,1701.3,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,UOL,Ust-Olenek,217.093350,217.1,True,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,TAY,Taymylyr,288.722618,288.7,True,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,TIK,Tiksi,547.030318,547.0,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,NAI,Naiba,645.097314,645.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,NIZ,Nizhneyansk,794.625277,794.6,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,CHO,Chokurdakh,1220.361318,1220.4,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,RUS,Russkoye Ustye,1240.078692,1240.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,POK,Pokhodsk,1737.698788,1737.7,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,CHR,Chersky,1771.052029,1771.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,PEV,Pevek,1995.280485,1995.3,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,BIL,Billings,2152.298635,2152.3,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,RYR,Ryrkaypiy,2365.063894,2365.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,VAN,Vankarem,2556.651761,2556.7,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,NUT,Nutepelmen,2616.675395,2616.7,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,AMG,Amguema,2525.450996,2525.5,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,EGV,Egvekinot,2575.147745,2575.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,KAN,Kanchalan,2536.884895,2536.9,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,ANA,Anadyr,2597.258145,2597.3,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,VOR,Vorontsovo (Taymyr),1006.827669,1006.8,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,KAU,Karaul,1096.633719,1096.6,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,DUD,Dudinka,1037.940280,1037.9,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,NOR,Norilsk,975.856514,975.9,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,UST,Ust-Avam,726.613513,726.6,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,VOL,Volochanka,677.104956,677.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,KHE,Kheta,482.818249,482.8,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,DEP,Deputatsky,1033.908388,1033.9,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,CHK,Chkalov,1119.692464,1119.7,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,BEL,Belaya Gora,1287.135992,1287.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,OLE,Olenegorsk (Sakha),1251.060307,1251.1,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,AND,Andryushkino,1518.619283,1518.6,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,KOL,Kolymskoye,1686.979232,1687.0,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,BBI,Bilibino,1984.586895,1984.6,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,RYT,Rytkuchi,2062.739934,2062.7,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,AYO,Ayon,1908.001670,1908.0,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,BYK,Bykovsky,541.574298,541.6,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,SAS,Saskylakh,99.022279,99.0,True,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,BUG,Bugrino,2271.806894,2271.8,False,False,geographical_only_site_qualification_pending
+YUR,Yuryung-Khaya,VAR,Varnek,1871.977714,1872.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,TAY,Taymylyr,80.745814,80.7,True,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,TIK,Tiksi,341.343752,341.3,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,NAI,Naiba,446.495708,446.5,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,NIZ,Nizhneyansk,580.629519,580.6,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,CHO,Chokurdakh,1003.595217,1003.6,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,RUS,Russkoye Ustye,1023.000918,1023.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,POK,Pokhodsk,1520.715537,1520.7,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,CHR,Chersky,1553.997221,1554.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,PEV,Pevek,1781.962452,1782.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,BIL,Billings,1942.442040,1942.4,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,RYR,Ryrkaypiy,2156.091856,2156.1,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,VAN,Vankarem,2347.957560,2348.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,NUT,Nutepelmen,2407.820031,2407.8,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,AMG,Amguema,2313.317875,2313.3,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,EGV,Egvekinot,2361.836998,2361.8,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,KAN,Kanchalan,2320.729127,2320.7,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,ANA,Anadyr,2381.035630,2381.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,VOR,Vorontsovo (Taymyr),1217.318453,1217.3,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,KAU,Karaul,1312.404201,1312.4,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,DUD,Dudinka,1255.031769,1255.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,NOR,Norilsk,1192.771141,1192.8,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,UST,Ust-Avam,943.456504,943.5,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,VOL,Volochanka,894.197405,894.2,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,KHE,Kheta,699.832404,699.8,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,DEP,Deputatsky,828.996726,829.0,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,CHK,Chkalov,904.057339,904.1,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,BEL,Belaya Gora,1077.263888,1077.3,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,OLE,Olenegorsk (Sakha),1035.835613,1035.8,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,AND,Andryushkino,1301.932619,1301.9,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,KOL,Kolymskoye,1469.936964,1469.9,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,BBI,Bilibino,1767.851392,1767.9,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,RYT,Rytkuchi,1848.210741,1848.2,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,AYO,Ayon,1694.067724,1694.1,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,BYK,Bykovsky,330.162180,330.2,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,SAS,Saskylakh,223.782427,223.8,True,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,BUG,Bugrino,2463.644745,2463.6,False,False,geographical_only_site_qualification_pending
+UOL,Ust-Olenek,VAR,Varnek,2071.947618,2071.9,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,TIK,Tiksi,261.692819,261.7,True,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,NAI,Naiba,365.897435,365.9,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,NIZ,Nizhneyansk,505.907471,505.9,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,CHO,Chokurdakh,933.490818,933.5,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,RUS,Russkoye Ustye,956.133393,956.1,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,POK,Pokhodsk,1454.468641,1454.5,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,CHR,Chersky,1487.085302,1487.1,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,PEV,Pevek,1724.137068,1724.1,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,BIL,Billings,1888.979427,1889.0,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,RYR,Ryrkaypiy,2103.439180,2103.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,VAN,Vankarem,2295.462351,2295.5,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,NUT,Nutepelmen,2355.109428,2355.1,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,AMG,Amguema,2256.773984,2256.8,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,EGV,Egvekinot,2303.635036,2303.6,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,KAN,Kanchalan,2257.285425,2257.3,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,ANA,Anadyr,2317.394384,2317.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,VOR,Vorontsovo (Taymyr),1293.846886,1293.8,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,KAU,Karaul,1385.264639,1385.3,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,DUD,Dudinka,1324.300915,1324.3,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,NOR,Norilsk,1260.388517,1260.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,UST,Ust-Avam,1014.415234,1014.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,VOL,Volochanka,963.476338,963.5,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,KHE,Kheta,768.562186,768.6,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,DEP,Deputatsky,749.732124,749.7,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,CHK,Chkalov,831.358889,831.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,BEL,Belaya Gora,999.826788,999.8,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,OLE,Olenegorsk (Sakha),962.500597,962.5,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,AND,Andryushkino,1231.407542,1231.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,KOL,Kolymskoye,1401.126125,1401.1,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,BBI,Bilibino,1702.778813,1702.8,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,RYT,Rytkuchi,1788.380042,1788.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,AYO,Ayon,1635.362131,1635.4,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,BYK,Bykovsky,253.113588,253.1,True,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,SAS,Saskylakh,275.254537,275.3,True,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,BUG,Bugrino,2544.056136,2544.1,False,False,geographical_only_site_qualification_pending
+TAY,Taymylyr,VAR,Varnek,2151.436514,2151.4,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,NAI,Naiba,110.788111,110.8,True,False,geographical_only_site_qualification_pending
+TIK,Tiksi,NIZ,Nizhneyansk,258.006814,258.0,True,False,geographical_only_site_qualification_pending
+TIK,Tiksi,CHO,Chokurdakh,693.649957,693.6,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,RUS,Russkoye Ustye,726.388499,726.4,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,POK,Pokhodsk,1222.118121,1222.1,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,CHR,Chersky,1252.647946,1252.6,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,PEV,Pevek,1515.174230,1515.2,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,BIL,Billings,1692.199033,1692.2,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,RYR,Ryrkaypiy,1907.881465,1907.9,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,VAN,Vankarem,2099.466390,2099.5,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,NUT,Nutepelmen,2158.222402,2158.2,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,AMG,Amguema,2048.980819,2049.0,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,EGV,Egvekinot,2090.858693,2090.9,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,KAN,Kanchalan,2029.826973,2029.8,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,ANA,Anadyr,2089.242130,2089.2,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,VOR,Vorontsovo (Taymyr),1553.803936,1553.8,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,KAU,Karaul,1640.373945,1640.4,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,DUD,Dudinka,1573.726621,1573.7,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,NOR,Norilsk,1507.127903,1507.1,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,UST,Ust-Avam,1267.385486,1267.4,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,VOL,Volochanka,1214.045916,1214.0,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,KHE,Kheta,1019.264486,1019.3,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,DEP,Deputatsky,488.074822,488.1,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,CHK,Chkalov,584.565095,584.6,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,BEL,Belaya Gora,740.264902,740.3,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,OLE,Olenegorsk (Sakha),712.796448,712.8,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,AND,Andryushkino,988.039834,988.0,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,KOL,Kolymskoye,1161.724493,1161.7,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,BBI,Bilibino,1472.593384,1472.6,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,RYT,Rytkuchi,1573.034863,1573.0,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,AYO,Ayon,1424.328469,1424.3,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,BYK,Bykovsky,41.965122,42.0,True,False,geographical_only_site_qualification_pending
+TIK,Tiksi,SAS,Saskylakh,515.137799,515.1,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,BUG,Bugrino,2804.584559,2804.6,False,False,geographical_only_site_qualification_pending
+TIK,Tiksi,VAR,Varnek,2413.102880,2413.1,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,NIZ,Nizhneyansk,205.305379,205.3,True,False,geographical_only_site_qualification_pending
+NAI,Naiba,CHO,Chokurdakh,630.137186,630.1,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,RUS,Russkoye Ustye,672.149202,672.1,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,POK,Pokhodsk,1159.898518,1159.9,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,CHR,Chersky,1188.444517,1188.4,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,PEV,Pevek,1468.959587,1469.0,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,BIL,Billings,1653.146466,1653.1,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,RYR,Ryrkaypiy,1868.638775,1868.6,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,VAN,Vankarem,2059.249800,2059.2,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,NUT,Nutepelmen,2117.257184,2117.3,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,AMG,Amguema,2001.304166,2001.3,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,EGV,Egvekinot,2039.691374,2039.7,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,KAN,Kanchalan,1968.263027,1968.3,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,ANA,Anadyr,2027.003851,2027.0,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,VOR,Vorontsovo (Taymyr),1650.970546,1651.0,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,KAU,Karaul,1731.776345,1731.8,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,DUD,Dudinka,1660.373440,1660.4,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,NOR,Norilsk,1591.905553,1591.9,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,UST,Ust-Avam,1357.613094,1357.6,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,VOL,Volochanka,1302.526290,1302.5,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,KHE,Kheta,1108.597971,1108.6,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,DEP,Deputatsky,390.269716,390.3,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,CHK,Chkalov,515.289265,515.3,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,BEL,Belaya Gora,649.110917,649.1,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,OLE,Olenegorsk (Sakha),637.642226,637.6,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,AND,Andryushkino,917.281120,917.3,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,KOL,Kolymskoye,1093.613454,1093.6,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,BBI,Bilibino,1410.796642,1410.8,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,RYT,Rytkuchi,1522.022803,1522.0,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,AYO,Ayon,1377.210464,1377.2,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,BYK,Bykovsky,141.445356,141.4,True,False,geographical_only_site_qualification_pending
+NAI,Naiba,SAS,Saskylakh,603.727329,603.7,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,BUG,Bugrino,2909.869222,2909.9,False,False,geographical_only_site_qualification_pending
+NAI,Naiba,VAR,Varnek,2515.544066,2515.5,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,CHO,Chokurdakh,435.720748,435.7,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,RUS,Russkoye Ustye,471.133102,471.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,POK,Pokhodsk,964.755856,964.8,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,CHR,Chersky,994.934609,994.9,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,PEV,Pevek,1265.558067,1265.6,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,BIL,Billings,1448.254226,1448.3,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,RYR,Ryrkaypiy,1663.818715,1663.8,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,VAN,Vankarem,1854.619772,1854.6,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,NUT,Nutepelmen,1912.772558,1912.8,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,AMG,Amguema,1798.576254,1798.6,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,EGV,Egvekinot,1838.333909,1838.3,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,KAN,Kanchalan,1772.894065,1772.9,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,ANA,Anadyr,1832.146992,1832.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,VOR,Vorontsovo (Taymyr),1797.808065,1797.8,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,KAU,Karaul,1891.128886,1891.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,DUD,Dudinka,1828.134179,1828.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,NOR,Norilsk,1762.593894,1762.6,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,UST,Ust-Avam,1519.703674,1519.7,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,VOL,Volochanka,1467.724519,1467.7,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,KHE,Kheta,1272.730910,1272.7,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,DEP,Deputatsky,277.548787,277.5,True,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,CHK,Chkalov,327.252854,327.3,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,BEL,Belaya Gora,501.134969,501.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,OLE,Olenegorsk (Sakha),457.104120,457.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,AND,Andryushkino,730.306759,730.3,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,KOL,Kolymskoye,903.719298,903.7,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,BBI,Bilibino,1215.440333,1215.4,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,RYT,Rytkuchi,1320.401100,1320.4,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,AYO,Ayon,1174.043651,1174.0,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,BYK,Bykovsky,254.013769,254.0,True,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,SAS,Saskylakh,770.717623,770.7,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,BUG,Bugrino,3027.121593,3027.1,False,False,geographical_only_site_qualification_pending
+NIZ,Nizhneyansk,VAR,Varnek,2645.037266,2645.0,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,RUS,Russkoye Ustye,76.823088,76.8,True,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,POK,Pokhodsk,529.968234,530.0,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,CHR,Chersky,559.410008,559.4,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,PEV,Pevek,850.004048,850.0,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,BIL,Billings,1045.085977,1045.1,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,RYR,Ryrkaypiy,1258.084925,1258.1,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,VAN,Vankarem,1445.693010,1445.7,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,NUT,Nutepelmen,1502.176566,1502.2,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,AMG,Amguema,1377.647341,1377.6,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,EGV,Egvekinot,1412.688779,1412.7,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,KAN,Kanchalan,1338.443934,1338.4,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,ANA,Anadyr,1397.404202,1397.4,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,VOR,Vorontsovo (Taymyr),2213.434158,2213.4,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,KAU,Karaul,2315.527122,2315.5,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,DUD,Dudinka,2257.720117,2257.7,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,NOR,Norilsk,2193.764294,2193.8,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,UST,Ust-Avam,1946.969431,1947.0,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,VOL,Volochanka,1896.846900,1896.8,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,KHE,Kheta,1702.000973,1702.0,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,DEP,Deputatsky,335.677217,335.7,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,CHK,Chkalov,118.884477,118.9,True,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,BEL,Belaya Gora,241.388812,241.4,True,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,OLE,Olenegorsk (Sakha),90.899638,90.9,True,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,AND,Andryushkino,298.403911,298.4,True,True,geographical_only_site_qualification_pending
+CHO,Chokurdakh,KOL,Kolymskoye,468.510362,468.5,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,BBI,Bilibino,780.877148,780.9,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,RYT,Rytkuchi,896.516123,896.5,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,AYO,Ayon,757.747260,757.7,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,BYK,Bykovsky,686.704429,686.7,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,SAS,Saskylakh,1203.582530,1203.6,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,BUG,Bugrino,3407.431868,3407.4,False,False,geographical_only_site_qualification_pending
+CHO,Chokurdakh,VAR,Varnek,3040.637212,3040.6,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,POK,Pokhodsk,498.383286,498.4,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,CHR,Chersky,531.066898,531.1,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,PEV,Pevek,798.023765,798.0,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,BIL,Billings,987.953617,988.0,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,RYR,Ryrkaypiy,1202.314079,1202.3,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,VAN,Vankarem,1391.443140,1391.4,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,NUT,Nutepelmen,1448.692074,1448.7,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,AMG,Amguema,1329.365159,1329.4,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,EGV,Egvekinot,1367.663009,1367.7,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,KAN,Kanchalan,1304.015377,1304.0,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,ANA,Anadyr,1363.676554,1363.7,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,VOR,Vorontsovo (Taymyr),2224.459786,2224.5,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,KAU,Karaul,2331.614726,2331.6,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,DUD,Dudinka,2277.950910,2278.0,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,NOR,Norilsk,2215.617621,2215.6,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,UST,Ust-Avam,1965.699451,1965.7,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,VOL,Volochanka,1917.170967,1917.2,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,KHE,Kheta,1722.815354,1722.8,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,DEP,Deputatsky,405.448710,405.4,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,CHK,Chkalov,180.766421,180.8,True,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,BEL,Belaya Gora,313.173037,313.2,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,OLE,Olenegorsk (Sakha),161.695801,161.7,True,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,AND,Andryushkino,293.373332,293.4,True,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,KOL,Kolymskoye,449.130585,449.1,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,BBI,Bilibino,747.552507,747.6,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,RYT,Rytkuchi,849.893124,849.9,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,AYO,Ayon,705.981376,706.0,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,BYK,Bykovsky,715.342503,715.3,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,SAS,Saskylakh,1229.218970,1229.2,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,BUG,Bugrino,3402.216985,3402.2,False,False,geographical_only_site_qualification_pending
+RUS,Russkoye Ustye,VAR,Varnek,3041.446311,3041.4,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,CHR,Chersky,39.449652,39.4,True,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,PEV,Pevek,372.707459,372.7,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,BIL,Billings,583.965727,584.0,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,RYR,Ryrkaypiy,779.290202,779.3,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,VAN,Vankarem,955.042323,955.0,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,NUT,Nutepelmen,1007.338354,1007.3,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,AMG,Amguema,866.366711,866.4,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,EGV,Egvekinot,893.080598,893.1,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,KAN,Kanchalan,808.475826,808.5,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,ANA,Anadyr,867.494177,867.5,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,VOR,Vorontsovo (Taymyr),2715.110278,2715.1,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,KAU,Karaul,2826.592674,2826.6,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,DUD,Dudinka,2775.249126,2775.2,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,NOR,Norilsk,2713.484128,2713.5,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,UST,Ust-Avam,2462.462701,2462.5,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,VOL,Volochanka,2414.630592,2414.6,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,KHE,Kheta,2220.515683,2220.5,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,DEP,Deputatsky,828.595985,828.6,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,CHK,Chkalov,645.227223,645.2,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,BEL,Belaya Gora,598.157134,598.2,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,OLE,Olenegorsk (Sakha),533.280923,533.3,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,AND,Andryushkino,259.519814,259.5,True,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,KOL,Kolymskoye,98.796207,98.8,True,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,BBI,Bilibino,250.914468,250.9,True,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,RYT,Rytkuchi,390.428502,390.4,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,AYO,Ayon,290.774728,290.8,True,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,BYK,Bykovsky,1212.840337,1212.8,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,SAS,Saskylakh,1727.562834,1727.6,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,BUG,Bugrino,3863.486110,3863.5,False,False,geographical_only_site_qualification_pending
+POK,Pokhodsk,VAR,Varnek,3516.018037,3516.0,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,PEV,Pevek,370.024274,370.0,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,BIL,Billings,580.907567,580.9,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,RYR,Ryrkaypiy,770.580002,770.6,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,VAN,Vankarem,942.716743,942.7,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,NUT,Nutepelmen,993.821272,993.8,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,AMG,Amguema,848.826353,848.8,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,EGV,Egvekinot,872.461022,872.5,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,KAN,Kanchalan,780.121883,780.1,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,ANA,Anadyr,838.613843,838.6,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,VOR,Vorontsovo (Taymyr),2750.584062,2750.6,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,KAU,Karaul,2861.094868,2861.1,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,DUD,Dudinka,2808.828195,2808.8,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,NOR,Norilsk,2746.673355,2746.7,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,UST,Ust-Avam,2496.301869,2496.3,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,VOL,Volochanka,2448.105907,2448.1,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,KHE,Kheta,2253.828269,2253.8,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,DEP,Deputatsky,851.039682,851.0,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,CHK,Chkalov,673.235152,673.2,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,BEL,Belaya Gora,614.710828,614.7,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,OLE,Olenegorsk (Sakha),557.942887,557.9,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,AND,Andryushkino,279.809119,279.8,True,False,geographical_only_site_qualification_pending
+CHR,Chersky,KOL,Kolymskoye,106.155170,106.2,True,False,geographical_only_site_qualification_pending
+CHR,Chersky,BBI,Bilibino,223.996851,224.0,True,False,geographical_only_site_qualification_pending
+CHR,Chersky,RYT,Rytkuchi,378.469305,378.5,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,AYO,Ayon,293.750957,293.8,True,False,geographical_only_site_qualification_pending
+CHR,Chersky,BYK,Bykovsky,1244.189339,1244.2,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,SAS,Saskylakh,1759.661742,1759.7,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,BUG,Bugrino,3901.718645,3901.7,False,False,geographical_only_site_qualification_pending
+CHR,Chersky,VAR,Varnek,3553.408091,3553.4,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,BIL,Billings,211.306621,211.3,True,False,geographical_only_site_qualification_pending
+PEV,Pevek,RYR,Ryrkaypiy,412.223420,412.2,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,VAN,Vankarem,596.376916,596.4,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,NUT,Nutepelmen,652.300675,652.3,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,AMG,Amguema,533.889619,533.9,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,EGV,Egvekinot,579.897365,579.9,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,KAN,Kanchalan,574.945542,574.9,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,ANA,Anadyr,635.000338,635.0,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,VOR,Vorontsovo (Taymyr),2934.000644,2934.0,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,KAU,Karaul,3060.120905,3060.1,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,DUD,Dudinka,3021.825089,3021.8,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,NOR,Norilsk,2965.350282,2965.4,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,UST,Ust-Avam,2707.491799,2707.5,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,VOL,Volochanka,2664.710510,2664.7,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,KHE,Kheta,2474.029656,2474.0,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,DEP,Deputatsky,1173.632246,1173.6,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,CHK,Chkalov,968.880470,968.9,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,BEL,Belaya Gora,961.706328,961.7,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,OLE,Olenegorsk (Sakha),875.793918,875.8,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,AND,Andryushkino,622.590451,622.6,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,KOL,Kolymskoye,470.873344,470.9,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,BBI,Bilibino,239.760639,239.8,True,False,geographical_only_site_qualification_pending
+PEV,Pevek,RYT,Rytkuchi,91.328582,91.3,True,False,geographical_only_site_qualification_pending
+PEV,Pevek,AYO,Ayon,92.257871,92.3,True,False,geographical_only_site_qualification_pending
+PEV,Pevek,BYK,Bykovsky,1498.923397,1498.9,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,SAS,Saskylakh,1999.299267,1999.3,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,BUG,Bugrino,4011.812438,4011.8,False,False,geographical_only_site_qualification_pending
+PEV,Pevek,VAR,Varnek,3690.901219,3690.9,False,False,geographical_only_site_qualification_pending
+BIL,Billings,RYR,Ryrkaypiy,215.705494,215.7,True,False,geographical_only_site_qualification_pending
+BIL,Billings,VAN,Vankarem,407.371966,407.4,False,False,geographical_only_site_qualification_pending
+BIL,Billings,NUT,Nutepelmen,466.523141,466.5,False,False,geographical_only_site_qualification_pending
+BIL,Billings,AMG,Amguema,384.599386,384.6,False,False,geographical_only_site_qualification_pending
+BIL,Billings,EGV,Egvekinot,449.916747,449.9,False,False,geographical_only_site_qualification_pending
+BIL,Billings,KAN,Kanchalan,525.773558,525.8,False,False,geographical_only_site_qualification_pending
+BIL,Billings,ANA,Anadyr,578.558527,578.6,False,False,geographical_only_site_qualification_pending
+BIL,Billings,VOR,Vorontsovo (Taymyr),3066.146279,3066.1,False,False,geographical_only_site_qualification_pending
+BIL,Billings,KAU,Karaul,3199.279292,3199.3,False,False,geographical_only_site_qualification_pending
+BIL,Billings,DUD,Dudinka,3167.868961,3167.9,False,False,geographical_only_site_qualification_pending
+BIL,Billings,NOR,Norilsk,3114.328823,3114.3,False,False,geographical_only_site_qualification_pending
+BIL,Billings,UST,Ust-Avam,2854.096995,2854.1,False,False,geographical_only_site_qualification_pending
+BIL,Billings,VOL,Volochanka,2814.069412,2814.1,False,False,geographical_only_site_qualification_pending
+BIL,Billings,KHE,Kheta,2626.059697,2626.1,False,False,geographical_only_site_qualification_pending
+BIL,Billings,DEP,Deputatsky,1374.030627,1374.0,False,False,geographical_only_site_qualification_pending
+BIL,Billings,CHK,Chkalov,1163.448038,1163.4,False,False,geographical_only_site_qualification_pending
+BIL,Billings,BEL,Belaya Gora,1169.499978,1169.5,False,False,geographical_only_site_qualification_pending
+BIL,Billings,OLE,Olenegorsk (Sakha),1077.408289,1077.4,False,False,geographical_only_site_qualification_pending
+BIL,Billings,AND,Andryushkino,831.550249,831.6,False,False,geographical_only_site_qualification_pending
+BIL,Billings,KOL,Kolymskoye,682.179964,682.2,False,False,geographical_only_site_qualification_pending
+BIL,Billings,BBI,Bilibino,423.722787,423.7,False,False,geographical_only_site_qualification_pending
+BIL,Billings,RYT,Rytkuchi,225.999849,226.0,True,False,geographical_only_site_qualification_pending
+BIL,Billings,AYO,Ayon,297.271553,297.3,True,True,geographical_only_site_qualification_pending
+BIL,Billings,BYK,Bykovsky,1673.110562,1673.1,False,False,geographical_only_site_qualification_pending
+BIL,Billings,SAS,Saskylakh,2162.977328,2163.0,False,False,geographical_only_site_qualification_pending
+BIL,Billings,BUG,Bugrino,4101.889372,4101.9,False,False,geographical_only_site_qualification_pending
+BIL,Billings,VAR,Varnek,3796.556950,3796.6,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,VAN,Vankarem,192.045048,192.0,True,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,NUT,Nutepelmen,251.732091,251.7,True,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,AMG,Amguema,210.100065,210.1,True,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,EGV,Egvekinot,289.646097,289.6,True,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,KAN,Kanchalan,447.561843,447.6,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,ANA,Anadyr,484.698889,484.7,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,VOR,Vorontsovo (Taymyr),3270.082875,3270.1,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,KAU,Karaul,3405.836879,3405.8,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,DUD,Dudinka,3376.874503,3376.9,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,NOR,Norilsk,3324.310643,3324.3,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,UST,Ust-Avam,3063.483266,3063.5,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,VOL,Volochanka,3024.342698,3024.3,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,KHE,Kheta,2837.232114,2837.2,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,DEP,Deputatsky,1584.802050,1584.8,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,CHK,Chkalov,1376.710236,1376.7,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,BEL,Belaya Gora,1373.310124,1373.3,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,OLE,Olenegorsk (Sakha),1287.304646,1287.3,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,AND,Andryushkino,1033.707769,1033.7,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,KOL,Kolymskoye,875.279914,875.3,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,BBI,Bilibino,582.585722,582.6,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,RYT,Rytkuchi,393.484164,393.5,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,AYO,Ayon,503.299586,503.3,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,BYK,Bykovsky,1888.677899,1888.7,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,SAS,Saskylakh,2377.108659,2377.1,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,BUG,Bugrino,4283.445828,4283.4,False,False,geographical_only_site_qualification_pending
+RYR,Ryrkaypiy,VAR,Varnek,3987.239843,3987.2,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,NUT,Nutepelmen,60.304138,60.3,True,False,geographical_only_site_qualification_pending
+VAN,Vankarem,AMG,Amguema,157.598671,157.6,True,False,geographical_only_site_qualification_pending
+VAN,Vankarem,EGV,Egvekinot,221.449229,221.4,True,False,geographical_only_site_qualification_pending
+VAN,Vankarem,KAN,Kanchalan,442.914150,442.9,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,ANA,Anadyr,457.066762,457.1,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,VOR,Vorontsovo (Taymyr),3457.090042,3457.1,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,KAU,Karaul,3594.325632,3594.3,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,DUD,Dudinka,3566.692758,3566.7,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,NOR,Norilsk,3514.628296,3514.6,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,UST,Ust-Avam,3253.532988,3253.5,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,VOL,Volochanka,3214.831221,3214.8,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,KHE,Kheta,3028.152053,3028.2,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,DEP,Deputatsky,1769.863121,1769.9,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,CHK,Chkalov,1564.496445,1564.5,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,BEL,Belaya Gora,1552.392771,1552.4,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,OLE,Olenegorsk (Sakha),1471.902025,1471.9,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,AND,Andryushkino,1212.589977,1212.6,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,KOL,Kolymskoye,1048.592761,1048.6,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,BBI,Bilibino,740.449659,740.4,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,RYT,Rytkuchi,564.734882,564.7,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,AYO,Ayon,688.454854,688.5,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,BYK,Bykovsky,2080.481324,2080.5,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,SAS,Saskylakh,2569.077641,2569.1,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,BUG,Bugrino,4455.183680,4455.2,False,False,geographical_only_site_qualification_pending
+VAN,Vankarem,VAR,Varnek,4165.490650,4165.5,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,AMG,Amguema,175.912812,175.9,True,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,EGV,Egvekinot,221.216960,221.2,True,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,KAN,Kanchalan,448.739510,448.7,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,ANA,Anadyr,454.860618,454.9,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,VOR,Vorontsovo (Taymyr),3517.288425,3517.3,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,KAU,Karaul,3654.612617,3654.6,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,DUD,Dudinka,3626.989890,3627.0,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,NOR,Norilsk,3574.899740,3574.9,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,UST,Ust-Avam,3313.820423,3313.8,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,VOL,Volochanka,3275.087461,3275.1,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,KHE,Kheta,3088.353158,3088.4,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,DEP,Deputatsky,1825.086777,1825.1,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,CHK,Chkalov,1621.029468,1621.0,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,BEL,Belaya Gora,1605.259930,1605.3,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,OLE,Olenegorsk (Sakha),1527.036068,1527.0,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,AND,Andryushkino,1265.648135,1265.6,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,KOL,Kolymskoye,1099.886569,1099.9,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,BBI,Bilibino,787.823409,787.8,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,RYT,Rytkuchi,616.952302,617.0,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,AYO,Ayon,744.520018,744.5,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,BYK,Bykovsky,2139.472384,2139.5,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,SAS,Saskylakh,2628.829448,2628.8,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,BUG,Bugrino,4512.966388,4513.0,False,False,geographical_only_site_qualification_pending
+NUT,Nutepelmen,VAR,Varnek,4224.488310,4224.5,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,EGV,Egvekinot,81.367685,81.4,True,False,geographical_only_site_qualification_pending
+AMG,Amguema,KAN,Kanchalan,286.562687,286.6,True,False,geographical_only_site_qualification_pending
+AMG,Amguema,ANA,Anadyr,305.892960,305.9,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,VOR,Vorontsovo (Taymyr),3449.179935,3449.2,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,KAU,Karaul,3580.650706,3580.7,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,DUD,Dudinka,3546.864505,3546.9,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,NOR,Norilsk,3492.066227,3492.1,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,UST,Ust-Avam,3232.756892,3232.8,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,VOL,Volochanka,3191.528142,3191.5,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,KHE,Kheta,3002.166482,3002.2,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,DEP,Deputatsky,1692.627144,1692.6,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,CHK,Chkalov,1496.312989,1496.3,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,BEL,Belaya Gora,1463.449813,1463.4,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,OLE,Olenegorsk (Sakha),1395.101236,1395.1,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,AND,Andryushkino,1125.884131,1125.9,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,KOL,Kolymskoye,954.778388,954.8,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,BBI,Bilibino,634.072596,634.1,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,RYT,Rytkuchi,481.406455,481.4,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,AYO,Ayon,624.724663,624.7,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,BYK,Bykovsky,2032.807084,2032.8,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,SAS,Saskylakh,2531.760040,2531.8,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,BUG,Bugrino,4482.753163,4482.8,False,False,geographical_only_site_qualification_pending
+AMG,Amguema,VAR,Varnek,4180.510769,4180.5,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,KAN,Kanchalan,227.731988,227.7,True,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,ANA,Anadyr,235.925290,235.9,True,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,VOR,Vorontsovo (Taymyr),3507.161371,3507.2,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,KAU,Karaul,3636.438094,3636.4,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,DUD,Dudinka,3600.313623,3600.3,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,NOR,Norilsk,3544.470180,3544.5,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,UST,Ust-Avam,3286.034116,3286.0,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,VOL,Volochanka,3243.835789,3243.8,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,KHE,Kheta,3053.541971,3053.5,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,DEP,Deputatsky,1721.613773,1721.6,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,CHK,Chkalov,1530.831694,1530.8,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,BEL,Belaya Gora,1486.317480,1486.3,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,OLE,Olenegorsk (Sakha),1425.341090,1425.3,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,AND,Andryushkino,1151.737478,1151.7,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,KOL,Kolymskoye,977.459771,977.5,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,BBI,Bilibino,652.174653,652.2,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,RYT,Rytkuchi,517.954720,518.0,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,AYO,Ayon,668.320040,668.3,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,BYK,Bykovsky,2076.019539,2076.0,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,SAS,Saskylakh,2578.854423,2578.9,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,BUG,Bugrino,4551.643445,4551.6,False,False,geographical_only_site_qualification_pending
+EGV,Egvekinot,VAR,Varnek,4245.825931,4245.8,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,ANA,Anadyr,60.879321,60.9,True,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,VOR,Vorontsovo (Taymyr),3495.899226,3495.9,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,KAU,Karaul,3616.289652,3616.3,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,DUD,Dudinka,3571.524061,3571.5,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,NOR,Norilsk,3512.036033,3512.0,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,UST,Ust-Avam,3257.572917,3257.6,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,VOL,Volochanka,3211.994905,3212.0,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,KHE,Kheta,3019.046821,3019.0,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,DEP,Deputatsky,1625.901411,1625.9,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,CHK,Chkalov,1453.238300,1453.2,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,BEL,Belaya Gora,1376.937947,1376.9,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,OLE,Olenegorsk (Sakha),1336.981125,1337.0,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,AND,Andryushkino,1056.486078,1056.5,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,KOL,Kolymskoye,878.490552,878.5,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,BBI,Bilibino,557.575942,557.6,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,RYT,Rytkuchi,490.853112,490.9,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,AYO,Ayon,647.774892,647.8,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,BYK,Bykovsky,2019.347276,2019.3,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,SAS,Saskylakh,2531.689858,2531.7,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,BUG,Bugrino,4586.757195,4586.8,False,False,geographical_only_site_qualification_pending
+KAN,Kanchalan,VAR,Varnek,4264.075214,4264.1,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,VOR,Vorontsovo (Taymyr),3556.761755,3556.8,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,KAU,Karaul,3677.045840,3677.0,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,DUD,Dudinka,3632.091949,3632.1,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,NOR,Norilsk,3572.501350,3572.5,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,UST,Ust-Avam,3318.169940,3318.2,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,VOL,Volochanka,3272.501483,3272.5,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,KHE,Kheta,3079.488423,3079.5,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,DEP,Deputatsky,1682.675414,1682.7,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,CHK,Chkalov,1511.844935,1511.8,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,BEL,Belaya Gora,1432.389733,1432.4,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,OLE,Olenegorsk (Sakha),1394.793430,1394.8,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,AND,Andryushkino,1114.065082,1114.1,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,KOL,Kolymskoye,936.105731,936.1,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,BBI,Bilibino,616.706706,616.7,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,RYT,Rytkuchi,551.427959,551.4,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,AYO,Ayon,708.475094,708.5,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,BYK,Bykovsky,2079.017690,2079.0,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,SAS,Saskylakh,2591.705497,2591.7,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,BUG,Bugrino,4646.751417,4646.8,False,False,geographical_only_site_qualification_pending
+ANA,Anadyr,VAR,Varnek,4324.657492,4324.7,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),KAU,Karaul,181.937576,181.9,True,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),DUD,Dudinka,273.389823,273.4,True,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),NOR,Norilsk,313.203786,313.2,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),UST,Ust-Avam,335.821508,335.8,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),VOL,Volochanka,399.802346,399.8,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),KHE,Kheta,564.966140,565.0,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),DEP,Deputatsky,2040.532886,2040.5,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),CHK,Chkalov,2118.983098,2119.0,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),BEL,Belaya Gora,2293.598307,2293.6,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),OLE,Olenegorsk (Sakha),2251.326846,2251.3,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),AND,Andryushkino,2511.240597,2511.2,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),KOL,Kolymskoye,2673.559753,2673.6,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),BBI,Bilibino,2955.349574,2955.3,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),RYT,Rytkuchi,3009.773042,3009.8,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),AYO,Ayon,2852.330157,2852.3,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),BYK,Bykovsky,1546.840222,1546.8,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),SAS,Saskylakh,1052.124816,1052.1,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),BUG,Bugrino,1313.233937,1313.2,False,False,geographical_only_site_qualification_pending
+VOR,Vorontsovo (Taymyr),VAR,Varnek,888.602982,888.6,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,DUD,Dudinka,136.591077,136.6,True,False,geographical_only_site_qualification_pending
+KAU,Karaul,NOR,Norilsk,208.826569,208.8,True,False,geographical_only_site_qualification_pending
+KAU,Karaul,UST,Ust-Avam,374.657170,374.7,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,VOL,Volochanka,432.839472,432.8,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,KHE,Kheta,623.802101,623.8,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,DEP,Deputatsky,2121.894215,2121.9,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,CHK,Chkalov,2216.250018,2216.3,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,BEL,Belaya Gora,2379.766353,2379.8,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,OLE,Olenegorsk (Sakha),2347.693588,2347.7,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,AND,Andryushkino,2613.930967,2613.9,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,KOL,Kolymskoye,2780.207678,2780.2,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,BBI,Bilibino,3070.212895,3070.2,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,RYT,Rytkuchi,3133.507727,3133.5,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,AYO,Ayon,2976.551142,2976.6,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,BYK,Bykovsky,1637.607467,1637.6,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,SAS,Saskylakh,1128.057448,1128.1,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,BUG,Bugrino,1320.215479,1320.2,False,False,geographical_only_site_qualification_pending
+KAU,Karaul,VAR,Varnek,884.325588,884.3,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,NOR,Norilsk,79.390898,79.4,True,False,geographical_only_site_qualification_pending
+DUD,Dudinka,UST,Ust-Avam,314.339414,314.3,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,VOL,Volochanka,360.895083,360.9,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,KHE,Kheta,555.738893,555.7,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,DEP,Deputatsky,2049.046345,2049.0,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,CHK,Chkalov,2154.930199,2154.9,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,BEL,Belaya Gora,2309.484167,2309.5,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,OLE,Olenegorsk (Sakha),2285.211016,2285.2,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,AND,Andryushkino,2555.708452,2555.7,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,KOL,Kolymskoye,2724.838837,2724.8,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,BBI,Bilibino,3021.327378,3021.3,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,RYT,Rytkuchi,3092.739290,3092.7,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,AYO,Ayon,2936.571555,2936.6,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,BYK,Bykovsky,1574.129965,1574.1,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,SAS,Saskylakh,1058.644088,1058.6,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,BUG,Bugrino,1448.193373,1448.2,False,False,geographical_only_site_qualification_pending
+DUD,Dudinka,VAR,Varnek,1011.427302,1011.4,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,UST,Ust-Avam,262.868284,262.9,True,False,geographical_only_site_qualification_pending
+NOR,Norilsk,VOL,Volochanka,300.641383,300.6,False,True,geographical_only_site_qualification_pending
+NOR,Norilsk,KHE,Kheta,493.110496,493.1,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,DEP,Deputatsky,1979.704966,1979.7,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,CHK,Chkalov,2089.705241,2089.7,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,BEL,Belaya Gora,2240.860669,2240.9,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,OLE,Olenegorsk (Sakha),2219.441607,2219.4,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,AND,Andryushkino,2491.373861,2491.4,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,KOL,Kolymskoye,2661.507680,2661.5,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,BBI,Bilibino,2960.413645,2960.4,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,RYT,Rytkuchi,3035.161945,3035.2,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,AYO,Ayon,2879.426069,2879.4,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,BYK,Bykovsky,1508.744592,1508.7,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,SAS,Saskylakh,992.093163,992.1,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,BUG,Bugrino,1526.150317,1526.2,False,False,geographical_only_site_qualification_pending
+NOR,Norilsk,VAR,Varnek,1089.543846,1089.5,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,VOL,Volochanka,64.027762,64.0,True,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,KHE,Kheta,249.188523,249.2,True,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,DEP,Deputatsky,1747.595345,1747.6,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,CHK,Chkalov,1845.761296,1845.8,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,BEL,Belaya Gora,2006.032194,2006.0,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,OLE,Olenegorsk (Sakha),1976.700530,1976.7,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,AND,Andryushkino,2245.231750,2245.2,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,KOL,Kolymskoye,2413.288873,2413.3,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,BBI,Bilibino,2708.004983,2708.0,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,RYT,Rytkuchi,2778.432119,2778.4,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,AYO,Ayon,2622.239172,2622.2,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,BYK,Bykovsky,1265.815518,1265.8,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,SAS,Saskylakh,753.923681,753.9,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,BUG,Bugrino,1648.307243,1648.3,False,False,geographical_only_site_qualification_pending
+UST,Ust-Avam,VAR,Varnek,1220.882785,1220.9,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,KHE,Kheta,195.000767,195.0,True,False,geographical_only_site_qualification_pending
+VOL,Volochanka,DEP,Deputatsky,1692.095321,1692.1,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,CHK,Chkalov,1794.341950,1794.3,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,BEL,Belaya Gora,1951.424722,1951.4,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,OLE,Olenegorsk (Sakha),1924.828570,1924.8,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,AND,Andryushkino,2194.872464,2194.9,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,KOL,Kolymskoye,2363.948499,2363.9,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,BBI,Bilibino,2661.028509,2661.0,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,RYT,Rytkuchi,2734.611862,2734.6,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,AYO,Ayon,2578.822290,2578.8,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,BYK,Bykovsky,1213.712609,1213.7,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,SAS,Saskylakh,699.411114,699.4,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,BUG,Bugrino,1712.325073,1712.3,False,False,geographical_only_site_qualification_pending
+VOL,Volochanka,VAR,Varnek,1284.704518,1284.7,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,DEP,Deputatsky,1498.489804,1498.5,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,CHK,Chkalov,1599.343601,1599.3,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,BEL,Belaya Gora,1757.228378,1757.2,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,OLE,Olenegorsk (Sakha),1729.834967,1729.8,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,AND,Andryushkino,1999.969706,2000.0,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,KOL,Kolymskoye,2169.271015,2169.3,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,BBI,Bilibino,2467.312288,2467.3,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,RYT,Rytkuchi,2543.026927,2543.0,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,AYO,Ayon,2387.610952,2387.6,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,BYK,Bykovsky,1018.720661,1018.7,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,SAS,Saskylakh,505.039426,505.0,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,BUG,Bugrino,1873.686283,1873.7,False,False,geographical_only_site_qualification_pending
+KHE,Kheta,VAR,Varnek,1453.042965,1453.0,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,CHK,Chkalov,226.449140,226.4,True,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,BEL,Belaya Gora,263.617177,263.6,True,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,OLE,Olenegorsk (Sakha),298.074263,298.1,True,True,geographical_only_site_qualification_pending
+DEP,Deputatsky,AND,Andryushkino,571.335605,571.3,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,KOL,Kolymskoye,748.633806,748.6,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,BBI,Bilibino,1074.671594,1074.7,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,RYT,Rytkuchi,1212.035295,1212.0,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,AYO,Ayon,1081.817871,1081.8,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,BYK,Bykovsky,500.689938,500.7,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,SAS,Saskylakh,993.850933,993.9,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,BUG,Bugrino,3290.091865,3290.1,False,False,geographical_only_site_qualification_pending
+DEP,Deputatsky,VAR,Varnek,2900.942582,2900.9,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,BEL,Belaya Gora,229.930711,229.9,True,False,geographical_only_site_qualification_pending
+CHK,Chkalov,OLE,Olenegorsk (Sakha),132.592955,132.6,True,False,geographical_only_site_qualification_pending
+CHK,Chkalov,AND,Andryushkino,403.640797,403.6,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,KOL,Kolymskoye,578.725867,578.7,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,BBI,Bilibino,895.983466,896.0,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,RYT,Rytkuchi,1015.081752,1015.1,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,AYO,Ayon,876.623072,876.6,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,BYK,Bykovsky,580.961525,581.0,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,SAS,Saskylakh,1097.947758,1097.9,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,BUG,Bugrino,3329.367582,3329.4,False,False,geographical_only_site_qualification_pending
+CHK,Chkalov,VAR,Varnek,2955.976968,2956.0,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,OLE,Olenegorsk (Sakha),151.578221,151.6,True,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,AND,Andryushkino,339.849895,339.8,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,KOL,Kolymskoye,509.048222,509.0,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,BBI,Bilibino,834.513301,834.5,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,RYT,Rytkuchi,988.325317,988.3,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,AYO,Ayon,872.429391,872.4,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,BYK,Bykovsky,747.134459,747.1,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,SAS,Saskylakh,1252.189368,1252.2,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,BUG,Bugrino,3527.939881,3527.9,False,False,geographical_only_site_qualification_pending
+BEL,Belaya Gora,VAR,Varnek,3145.844038,3145.8,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),AND,Andryushkino,280.996634,281.0,True,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),KOL,Kolymskoye,458.745047,458.7,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),BBI,Bilibino,781.922260,781.9,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),RYT,Rytkuchi,914.208968,914.2,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),AYO,Ayon,784.113704,784.1,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),BYK,Bykovsky,711.116509,711.1,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),SAS,Saskylakh,1227.380804,1227.4,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),BUG,Bugrino,3460.803074,3460.8,False,False,geographical_only_site_qualification_pending
+OLE,Olenegorsk (Sakha),VAR,Varnek,3088.346357,3088.3,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,KOL,Kolymskoye,177.995529,178.0,True,False,geographical_only_site_qualification_pending
+AND,Andryushkino,BBI,Bilibino,503.339480,503.3,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,RYT,Rytkuchi,648.829723,648.8,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,AYO,Ayon,534.283871,534.3,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,BYK,Bykovsky,983.182058,983.2,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,SAS,Saskylakh,1500.377512,1500.4,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,BUG,Bugrino,3695.583486,3695.6,False,False,geographical_only_site_qualification_pending
+AND,Andryushkino,VAR,Varnek,3333.799178,3333.8,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,BBI,Bilibino,326.615057,326.6,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,RYT,Rytkuchi,484.068646,484.1,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,AYO,Ayon,389.570803,389.6,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,BYK,Bykovsky,1155.212171,1155.2,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,SAS,Saskylakh,1671.991384,1672.0,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,BUG,Bugrino,3840.666160,3840.7,False,False,geographical_only_site_qualification_pending
+KOL,Kolymskoye,VAR,Varnek,3486.071148,3486.1,False,False,geographical_only_site_qualification_pending
+BBI,Bilibino,RYT,Rytkuchi,198.141580,198.1,True,False,geographical_only_site_qualification_pending
+BBI,Bilibino,AYO,Ayon,218.477148,218.5,True,False,geographical_only_site_qualification_pending
+BBI,Bilibino,BYK,Bykovsky,1462.739988,1462.7,False,False,geographical_only_site_qualification_pending
+BBI,Bilibino,SAS,Saskylakh,1976.507025,1976.5,False,False,geographical_only_site_qualification_pending
+BBI,Bilibino,BUG,Bugrino,4084.006975,4084.0,False,False,geographical_only_site_qualification_pending
+BBI,Bilibino,VAR,Varnek,3744.944570,3744.9,False,False,geographical_only_site_qualification_pending
+RYT,Rytkuchi,AYO,Ayon,157.593907,157.6,True,False,geographical_only_site_qualification_pending
+RYT,Rytkuchi,BYK,Bykovsky,1558.578674,1558.6,False,False,geographical_only_site_qualification_pending
+RYT,Rytkuchi,SAS,Saskylakh,2063.623547,2063.6,False,False,geographical_only_site_qualification_pending
+RYT,Rytkuchi,BUG,Bugrino,4097.063893,4097.1,False,False,geographical_only_site_qualification_pending
+RYT,Rytkuchi,VAR,Varnek,3773.234109,3773.2,False,False,geographical_only_site_qualification_pending
+AYO,Ayon,BYK,Bykovsky,1408.540798,1408.5,False,False,geographical_only_site_qualification_pending
+AYO,Ayon,SAS,Saskylakh,1910.597561,1910.6,False,False,geographical_only_site_qualification_pending
+AYO,Ayon,BUG,Bugrino,3942.053167,3942.1,False,False,geographical_only_site_qualification_pending
+AYO,Ayon,VAR,Varnek,3616.437622,3616.4,False,False,geographical_only_site_qualification_pending
+BYK,Bykovsky,SAS,Saskylakh,517.200341,517.2,False,False,geographical_only_site_qualification_pending
+BYK,Bykovsky,BUG,Bugrino,2789.461310,2789.5,False,False,geographical_only_site_qualification_pending
+BYK,Bykovsky,VAR,Varnek,2401.079230,2401.1,False,False,geographical_only_site_qualification_pending
+SAS,Saskylakh,BUG,Bugrino,2334.394731,2334.4,False,False,geographical_only_site_qualification_pending
+SAS,Saskylakh,VAR,Varnek,1928.071802,1928.1,False,False,geographical_only_site_qualification_pending
+BUG,Bugrino,VAR,Varnek,436.904758,436.9,False,False,geographical_only_site_qualification_pending

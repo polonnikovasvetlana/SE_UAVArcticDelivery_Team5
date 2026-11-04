@@ -2,11 +2,10 @@
 
 Record unconfirmed engineering assumptions here. Existing material has received a contextual review, not a complete assumption audit; an empty register does not mean that all project information is verified.
 
-The [requirements questions workbook](UAV_NFR_Questions.xlsx) includes provisional values and one entry explicitly marked Assumed. Its entries have not yet been transferred into this register. Review them with their existing identifiers and evidence before accepting them as facts or requirements. Related open questions are in [status.md](status.md).
+The [requirements questions workbook](Operational_Analysis/UAV_NFR_Questions.xlsx) includes provisional values and one entry explicitly marked Assumed in the earlier review. Its entries have not yet been transferred into this register. Review them with their existing identifiers and evidence before accepting them as facts or requirements. Related open questions are in [status.md](status.md).
 
 Use stable identifiers starting with `ASM-001`. Status values: **Unverified**, **Validated**, **Rejected**, or **Superseded**. Retain resolved entries and link to the evidence that resolved them. An assumption is not an approved requirement.
 
 | ID | Assumption | Source / reason | Consequence if incorrect | Verification method / evidence needed | Owner | Status | Resolution / evidence |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
-No engineering assumptions recorded yet.
+| ASM-001 | A Murmansk–Anadyr relay path can be formed through locations with electricity and permanent people, with every consecutive leg at most 300 km. | User's hypothesis for the relay-network assessment; [theory notes](Operational_Analysis/relay-network-theory.md). | Longer legs, different siting, or a different coverage concept may be needed. Existing 300 km ship-delivery figures do not validate this network hypothesis. | Qualify critical locations and review the proposed route; distinguish geographical paths from ship coverage and flight feasibility. | Not assigned | Unverified | [First pass](Operational_Analysis/relay-distance-first-pass.md): 57 candidates and 1,596 distances calculated; 32/36 illustrative legs pass, four direct gaps have candidate detours. An optimistic path exists with industrial sites/inland detours; permanent presence and electricity are not verified at every node. |

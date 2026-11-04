@@ -1,0 +1,78 @@
+chain,leg_number,from_id,from_name,to_id,to_name,distance_km,display_km,within_300_km,near_threshold_295_305,interpretation
+illustrative_main,1,MUR,Murmansk,TER,Teriberka,85.160300,85.2,True,False,geographical_only_site_qualification_pending
+illustrative_main,2,TER,Teriberka,OST,Ostrovnoy,216.754075,216.8,True,False,geographical_only_site_qualification_pending
+illustrative_main,3,OST,Ostrovnoy,SHO,Shoyna,195.028768,195.0,True,False,geographical_only_site_qualification_pending
+illustrative_main,4,SHO,Shoyna,IND,Indiga,207.682039,207.7,True,False,geographical_only_site_qualification_pending
+illustrative_main,5,IND,Indiga,NAR,Naryan-Mar,168.537656,168.5,True,False,geographical_only_site_qualification_pending
+illustrative_main,6,NAR,Naryan-Mar,CHE,Chernaya,182.724753,182.7,True,False,geographical_only_site_qualification_pending
+illustrative_main,7,CHE,Chernaya,KAR,Karatayka,196.931260,196.9,True,False,geographical_only_site_qualification_pending
+illustrative_main,8,KAR,Karatayka,AMD,Amderma,111.827694,111.8,True,False,geographical_only_site_qualification_pending
+illustrative_main,9,AMD,Amderma,UKA,Ust-Kara,139.578974,139.6,True,False,geographical_only_site_qualification_pending
+illustrative_main,10,UKA,Ust-Kara,KHA,Kharasavey,228.584296,228.6,True,False,geographical_only_site_qualification_pending
+illustrative_main,11,KHA,Kharasavey,SEY,Seyakha,236.223730,236.2,True,False,geographical_only_site_qualification_pending
+illustrative_main,12,SEY,Seyakha,SAB,Sabetta,120.274070,120.3,True,False,geographical_only_site_qualification_pending
+illustrative_main,13,SAB,Sabetta,GYD,Gyda,232.540958,232.5,True,False,geographical_only_site_qualification_pending
+illustrative_main,14,GYD,Gyda,DIK,Dikson,299.812310,299.8,True,True,geographical_only_site_qualification_pending
+illustrative_main,15,DIK,Dikson,KHT,Khatanga,741.865418,741.9,False,False,geographical_only_site_qualification_pending
+illustrative_main,16,KHT,Khatanga,NOV,Novorybnaya,147.626525,147.6,True,False,geographical_only_site_qualification_pending
+illustrative_main,17,NOV,Novorybnaya,SYN,Syndassko,91.856643,91.9,True,False,geographical_only_site_qualification_pending
+illustrative_main,18,SYN,Syndassko,YUR,Yuryung-Khaya,171.115918,171.1,True,False,geographical_only_site_qualification_pending
+illustrative_main,19,YUR,Yuryung-Khaya,UOL,Ust-Olenek,217.093350,217.1,True,False,geographical_only_site_qualification_pending
+illustrative_main,20,UOL,Ust-Olenek,TAY,Taymylyr,80.745814,80.7,True,False,geographical_only_site_qualification_pending
+illustrative_main,21,TAY,Taymylyr,TIK,Tiksi,261.692819,261.7,True,False,geographical_only_site_qualification_pending
+illustrative_main,22,TIK,Tiksi,NAI,Naiba,110.788111,110.8,True,False,geographical_only_site_qualification_pending
+illustrative_main,23,NAI,Naiba,NIZ,Nizhneyansk,205.305379,205.3,True,False,geographical_only_site_qualification_pending
+illustrative_main,24,NIZ,Nizhneyansk,CHO,Chokurdakh,435.720748,435.7,False,False,geographical_only_site_qualification_pending
+illustrative_main,25,CHO,Chokurdakh,RUS,Russkoye Ustye,76.823088,76.8,True,False,geographical_only_site_qualification_pending
+illustrative_main,26,RUS,Russkoye Ustye,POK,Pokhodsk,498.383286,498.4,False,False,geographical_only_site_qualification_pending
+illustrative_main,27,POK,Pokhodsk,CHR,Chersky,39.449652,39.4,True,False,geographical_only_site_qualification_pending
+illustrative_main,28,CHR,Chersky,PEV,Pevek,370.024274,370.0,False,False,geographical_only_site_qualification_pending
+illustrative_main,29,PEV,Pevek,BIL,Billings,211.306621,211.3,True,False,geographical_only_site_qualification_pending
+illustrative_main,30,BIL,Billings,RYR,Ryrkaypiy,215.705494,215.7,True,False,geographical_only_site_qualification_pending
+illustrative_main,31,RYR,Ryrkaypiy,VAN,Vankarem,192.045048,192.0,True,False,geographical_only_site_qualification_pending
+illustrative_main,32,VAN,Vankarem,NUT,Nutepelmen,60.304138,60.3,True,False,geographical_only_site_qualification_pending
+illustrative_main,33,NUT,Nutepelmen,AMG,Amguema,175.912812,175.9,True,False,geographical_only_site_qualification_pending
+illustrative_main,34,AMG,Amguema,EGV,Egvekinot,81.367685,81.4,True,False,geographical_only_site_qualification_pending
+illustrative_main,35,EGV,Egvekinot,KAN,Kanchalan,227.731988,227.7,True,False,geographical_only_site_qualification_pending
+illustrative_main,36,KAN,Kanchalan,ANA,Anadyr,60.879321,60.9,True,False,geographical_only_site_qualification_pending
+detour_DIK_KHT,1,DIK,Dikson,VOR,Vorontsovo (Taymyr),225.788020,225.8,True,False,geographical_only_site_qualification_pending
+detour_DIK_KHT,2,VOR,Vorontsovo (Taymyr),DUD,Dudinka,273.389823,273.4,True,False,geographical_only_site_qualification_pending
+detour_DIK_KHT,3,DUD,Dudinka,NOR,Norilsk,79.390898,79.4,True,False,geographical_only_site_qualification_pending
+detour_DIK_KHT,4,NOR,Norilsk,UST,Ust-Avam,262.868284,262.9,True,False,geographical_only_site_qualification_pending
+detour_DIK_KHT,5,UST,Ust-Avam,KHE,Kheta,249.188523,249.2,True,False,geographical_only_site_qualification_pending
+detour_DIK_KHT,6,KHE,Kheta,KHT,Khatanga,108.533094,108.5,True,False,geographical_only_site_qualification_pending
+detour_NIZ_CHO,1,NIZ,Nizhneyansk,DEP,Deputatsky,277.548787,277.5,True,False,geographical_only_site_qualification_pending
+detour_NIZ_CHO,2,DEP,Deputatsky,CHK,Chkalov,226.449140,226.4,True,False,geographical_only_site_qualification_pending
+detour_NIZ_CHO,3,CHK,Chkalov,CHO,Chokurdakh,118.884477,118.9,True,False,geographical_only_site_qualification_pending
+detour_RUS_POK,1,RUS,Russkoye Ustye,AND,Andryushkino,293.373332,293.4,True,False,geographical_only_site_qualification_pending
+detour_RUS_POK,2,AND,Andryushkino,POK,Pokhodsk,259.519814,259.5,True,False,geographical_only_site_qualification_pending
+detour_CHR_PEV,1,CHR,Chersky,AYO,Ayon,293.750957,293.8,True,False,geographical_only_site_qualification_pending
+detour_CHR_PEV,2,AYO,Ayon,PEV,Pevek,92.257871,92.3,True,False,geographical_only_site_qualification_pending
+all_candidates,1,MUR,Murmansk,OST,Ostrovnoy,281.912536,281.9,True,False,geographical_only_site_qualification_pending
+all_candidates,2,OST,Ostrovnoy,SHO,Shoyna,195.028768,195.0,True,False,geographical_only_site_qualification_pending
+all_candidates,3,SHO,Shoyna,BUG,Bugrino,235.441285,235.4,True,False,geographical_only_site_qualification_pending
+all_candidates,4,BUG,Bugrino,CHE,Chernaya,295.715105,295.7,True,True,geographical_only_site_qualification_pending
+all_candidates,5,CHE,Chernaya,AMD,Amderma,240.350714,240.4,True,False,geographical_only_site_qualification_pending
+all_candidates,6,AMD,Amderma,KHA,Kharasavey,251.583682,251.6,True,False,geographical_only_site_qualification_pending
+all_candidates,7,KHA,Kharasavey,SAB,Sabetta,188.955277,189.0,True,False,geographical_only_site_qualification_pending
+all_candidates,8,SAB,Sabetta,GYD,Gyda,232.540958,232.5,True,False,geographical_only_site_qualification_pending
+all_candidates,9,GYD,Gyda,KAU,Karaul,198.632532,198.6,True,False,geographical_only_site_qualification_pending
+all_candidates,10,KAU,Karaul,NOR,Norilsk,208.826569,208.8,True,False,geographical_only_site_qualification_pending
+all_candidates,11,NOR,Norilsk,UST,Ust-Avam,262.868284,262.9,True,False,geographical_only_site_qualification_pending
+all_candidates,12,UST,Ust-Avam,KHE,Kheta,249.188523,249.2,True,False,geographical_only_site_qualification_pending
+all_candidates,13,KHE,Kheta,NOV,Novorybnaya,253.005213,253.0,True,False,geographical_only_site_qualification_pending
+all_candidates,14,NOV,Novorybnaya,YUR,Yuryung-Khaya,244.856805,244.9,True,False,geographical_only_site_qualification_pending
+all_candidates,15,YUR,Yuryung-Khaya,TAY,Taymylyr,288.722618,288.7,True,False,geographical_only_site_qualification_pending
+all_candidates,16,TAY,Taymylyr,BYK,Bykovsky,253.113588,253.1,True,False,geographical_only_site_qualification_pending
+all_candidates,17,BYK,Bykovsky,NIZ,Nizhneyansk,254.013769,254.0,True,False,geographical_only_site_qualification_pending
+all_candidates,18,NIZ,Nizhneyansk,DEP,Deputatsky,277.548787,277.5,True,False,geographical_only_site_qualification_pending
+all_candidates,19,DEP,Deputatsky,OLE,Olenegorsk (Sakha),298.074263,298.1,True,True,geographical_only_site_qualification_pending
+all_candidates,20,OLE,Olenegorsk (Sakha),AND,Andryushkino,280.996634,281.0,True,False,geographical_only_site_qualification_pending
+all_candidates,21,AND,Andryushkino,POK,Pokhodsk,259.519814,259.5,True,False,geographical_only_site_qualification_pending
+all_candidates,22,POK,Pokhodsk,AYO,Ayon,290.774728,290.8,True,False,geographical_only_site_qualification_pending
+all_candidates,23,AYO,Ayon,BIL,Billings,297.271553,297.3,True,True,geographical_only_site_qualification_pending
+all_candidates,24,BIL,Billings,RYR,Ryrkaypiy,215.705494,215.7,True,False,geographical_only_site_qualification_pending
+all_candidates,25,RYR,Ryrkaypiy,EGV,Egvekinot,289.646097,289.6,True,False,geographical_only_site_qualification_pending
+all_candidates,26,EGV,Egvekinot,ANA,Anadyr,235.925290,235.9,True,False,geographical_only_site_qualification_pending
+alternative_CHR_PEV_via_Bilibino,1,CHR,Chersky,BBI,Bilibino,223.996851,224.0,True,False,geographical_only_site_qualification_pending
+alternative_CHR_PEV_via_Bilibino,2,BBI,Bilibino,PEV,Pevek,239.760639,239.8,True,False,geographical_only_site_qualification_pending

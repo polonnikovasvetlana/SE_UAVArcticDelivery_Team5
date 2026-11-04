@@ -8,5 +8,4 @@ Use stable identifiers starting with `DEC-001`. Status values: **Proposed**, **A
 
 | ID | Date proposed | Decision | Rationale and alternatives | Evidence / affected artifacts | Status | Approved by / date | Superseded by |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
-No engineering decisions recorded yet.
+| DEC-001 | 2026-11-04 | Use straight-line distances for the initial relay-network geographical assessment; interpret them as geodesic surface distances between sourced coordinates. | The user explicitly accepted straight-line measurement. This is a screening method, not proof of operational flight range. | User confirmation in this conversation; [theory notes](Operational_Analysis/relay-network-theory.md). | Approved | User confirmed straight-line screening / 2026-11-04; computational interpretation documented for review. | — |

@@ -1,0 +1,118 @@
+{
+  "method": "PROJ geod_inverse; WGS84 ellipsoidal geodesic",
+  "site_count": 57,
+  "pair_count": 1596,
+  "main_legs": 36,
+  "main_pass": 32,
+  "main_gaps": [
+    {
+      "chain": "illustrative_main",
+      "leg_number": 15,
+      "from_id": "DIK",
+      "from_name": "Dikson",
+      "to_id": "KHT",
+      "to_name": "Khatanga",
+      "distance_km": "741.865418",
+      "display_km": "741.9",
+      "within_300_km": false,
+      "near_threshold_295_305": false,
+      "interpretation": "geographical_only_site_qualification_pending",
+      "detour": [
+        "DIK",
+        "VOR",
+        "DUD",
+        "NOR",
+        "UST",
+        "KHE",
+        "KHT"
+      ]
+    },
+    {
+      "chain": "illustrative_main",
+      "leg_number": 24,
+      "from_id": "NIZ",
+      "from_name": "Nizhneyansk",
+      "to_id": "CHO",
+      "to_name": "Chokurdakh",
+      "distance_km": "435.720748",
+      "display_km": "435.7",
+      "within_300_km": false,
+      "near_threshold_295_305": false,
+      "interpretation": "geographical_only_site_qualification_pending",
+      "detour": [
+        "NIZ",
+        "DEP",
+        "CHK",
+        "CHO"
+      ]
+    },
+    {
+      "chain": "illustrative_main",
+      "leg_number": 26,
+      "from_id": "RUS",
+      "from_name": "Russkoye Ustye",
+      "to_id": "POK",
+      "to_name": "Pokhodsk",
+      "distance_km": "498.383286",
+      "display_km": "498.4",
+      "within_300_km": false,
+      "near_threshold_295_305": false,
+      "interpretation": "geographical_only_site_qualification_pending",
+      "detour": [
+        "RUS",
+        "AND",
+        "POK"
+      ]
+    },
+    {
+      "chain": "illustrative_main",
+      "leg_number": 28,
+      "from_id": "CHR",
+      "from_name": "Chersky",
+      "to_id": "PEV",
+      "to_name": "Pevek",
+      "distance_km": "370.024274",
+      "display_km": "370.0",
+      "within_300_km": false,
+      "near_threshold_295_305": false,
+      "interpretation": "geographical_only_site_qualification_pending",
+      "detour": [
+        "CHR",
+        "AYO",
+        "PEV"
+      ]
+    }
+  ],
+  "paths": {
+    "all_candidates": [
+      "MUR",
+      "OST",
+      "SHO",
+      "BUG",
+      "CHE",
+      "AMD",
+      "KHA",
+      "SAB",
+      "GYD",
+      "KAU",
+      "NOR",
+      "UST",
+      "KHE",
+      "NOV",
+      "YUR",
+      "TAY",
+      "BYK",
+      "NIZ",
+      "DEP",
+      "OLE",
+      "AND",
+      "POK",
+      "AYO",
+      "BIL",
+      "RYR",
+      "EGV",
+      "ANA"
+    ],
+    "residential_candidates_only": null
+  }
+}

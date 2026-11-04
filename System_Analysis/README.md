@@ -15,7 +15,7 @@ SA treats the automated system as a black box: it describes responsibilities and
 - [Part 2 report, sections 2–3](../../SE_my_notes/Problem%20set%202/Team5_problem2_part2.docx) — System boundary, capabilities, delivery cases, exchange scenario, and quantitative inputs.
 - [Capella model, System Analysis layer](../Capella/UAV_Delivery_Arctic.capella) and [diagram file](../Capella/UAV_Delivery_Arctic.aird) — Model elements, allocations, traceability, and representations.
 - [Part 1 IDEF0 report](../../SE_my_notes/Problem%20set%202/Team5_problem2_part1.docx) — Complementary functional decomposition and earlier performance statements.
-- [Requirements questions workbook](../UAV_NFR_Questions.xlsx) — Provisional quantitative inputs. The copy in [Research](../Research/UAV_NFR_Questions.xlsx) was identical during the review; an authoritative copy has not been selected.
+- [Requirements questions workbook](../Operational_Analysis/UAV_NFR_Questions.xlsx) — Provisional quantitative inputs. Earlier copies were identical during review; the currently located copy is in `Operational_Analysis/`. Confirm it as authoritative before engineering edits.
 
 Consult these sources before changing model content. This document summarizes them; it does not approve their numerical values.
 

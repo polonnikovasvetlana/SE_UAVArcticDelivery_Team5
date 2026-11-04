@@ -6,6 +6,8 @@ Project: **Emergency drug delivery to a ship or port based on UAV system with in
 
 ## Status and Purpose
 
+Current focused study: [Relay distance first-pass results](relay-distance-first-pass.md), with 57 candidate locations and 1,596 calculated pair distances across the Murmansk–Anadyr corridor. The [theoretical criteria](relay-network-theory.md) retain electricity and permanent human presence as the primary site checks. The user subsequently authorized a new [relay map](Arctic_relay_map.png) ([PDF](Arctic_relay_map.pdf), [SVG](Arctic_relay_map.svg)); original maps are unchanged. It distinguishes reference ports, other relay candidates and conditional industrial sites, highlights four direct gaps over 300 km and shows candidate detours. Port grouping is for display, not a verified size ranking; site qualification remains provisional.
+
 The user reports that Operational Analysis (OA) has been performed. The existing Capella model contains stakeholder groupings, operational capabilities, activities, and exchanges. This summary provides an entry point for future agents; it is not a formal approval or a complete model audit.
 
 OA describes the people and organizations involved, what they need to achieve, and their interactions before allocating responsibilities to an automated system. The existing analysis considers Northern Sea Route and Arctic operations. Delivery and inflight weather-data acquisition are both part of the project scope.

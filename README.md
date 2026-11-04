@@ -25,7 +25,7 @@ This repository contains the documentation, analysis, and system models develope
 - [IDEF0 report](../SE_my_notes/Problem%20set%202/Team5_problem2_part1.docx) — Functional decomposition of delivery and inflight weather-data acquisition.
 - [Operational and System Analysis report](../SE_my_notes/Problem%20set%202/Team5_problem2_part2.docx) — Stakeholders, capabilities, activities, system functions, and delivery scenarios.
 - [Capella model](Capella/UAV_Delivery_Arctic.capella) — Existing Operational Analysis and System Analysis; open with the associated `.aird` and `.afm` files in this folder.
-- [Requirements questions workbook](UAV_NFR_Questions.xlsx) — Preliminary quantitative inputs. A second copy exists in `Research/`; the copies were identical during the 2026-11-04 review. The authoritative copy remains to be agreed.
+- [Requirements questions workbook](Operational_Analysis/UAV_NFR_Questions.xlsx) — Preliminary quantitative inputs. Earlier copies were identical during the 2026-11-04 review; the currently located copy is in `Operational_Analysis/`. Confirm it as authoritative before editing its engineering content.
 
 These inputs have been inspected for context; inspection does not establish formal approval or technical validation. Identify authoritative requirements and architecture artifacts here as they are agreed.
 
