@@ -1,0 +1,25 @@
+{
+  "scope": "Historical representative line, Kara Sea entrance (~58E) to Bering Strait; not full shipping corridor",
+  "candidate_count": 57,
+  "route_length_km": 4674.847463539985,
+  "covered_length_km": 2185.9683582960415,
+  "covered_percent": 46.76020715851843,
+  "uncovered_length_km": 2488.8791052439437,
+  "length_weighted_mean_nearest_site_km": 311.9770390670801,
+  "max_sampled_nearest_site_km": 619.3777504805087,
+  "worst_point": {
+    "lat": 77.78512767308136,
+    "lon": 94.97109810007544,
+    "weight_km": 4.898240185175395,
+    "nearest_km": 619.3777504805087,
+    "site": "Dikson"
+  },
+  "sampling_spacing_km_at_most": 5,
+  "upper_bound_for_continuous_line_required_radius_km": 621.8777504805087,
+  "assumptions": [
+    "All 57 candidates available (optimistic; electricity/permanent support not fully qualified).",
+    "One-way reach; recipient ship supports landing and compatible battery swap.",
+    "No wind, payload, energy reserve or recovery allowance.",
+    "No corridor width assumed; percentages measure route length, not sea area."
+  ]
+}

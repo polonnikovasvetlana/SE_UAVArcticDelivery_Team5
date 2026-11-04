@@ -28,6 +28,8 @@ Last updated: 2026-11-04.
 
 ## Active Tasks
 
+- Updated the existing [relay map](Operational_Analysis/Arctic_relay_map.png) to show 300 km one-way coverage, with PDF/SVG exports. A sourced historical NSR reference line gives 46.8% length coverage, 312 km mean nearest-site distance and approximately 630 km reach for that line alone; this does not define the full shipping corridor. See [coverage summary](Operational_Analysis/nsr-coverage-summary.md). User specifies landing and battery swap on the receiving ship; site and ship support remain unverified.
+
 - Created a separate [relay map](Operational_Analysis/Arctic_relay_map.png) on 2026-11-04 at the user's request, with PDF/SVG exports, 57 candidates, reference-port/relay/industrial symbols, four highlighted direct gaps over 300 km, and candidate detours. Original maps are unchanged. Port grouping follows the reference map, not verified throughput; sites and detours remain provisional.
 
 - PDR preparation remains the project priority. Current work concerns service coverage and relay connectivity from Murmansk to Anadyr.

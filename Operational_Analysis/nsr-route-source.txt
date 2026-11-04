@@ -1,0 +1,3 @@
+https://services1.arcgis.com/cc7nIINtrZ67dyVJ/ArcGIS/rest/services/Shipping_and_Hydrography/FeatureServer
+Retrieved 2026-11-04. Service credits NGA; route is based on actual Russian icebreaker/cargo routes. Historical representative line, not a current navigational corridor.
+https://services1.arcgis.com/cc7nIINtrZ67dyVJ/ArcGIS/rest/services/Shipping_and_Hydrography/FeatureServer/0/query?where=1%3D1&outFields=%2A&outSR=4326&f=json
