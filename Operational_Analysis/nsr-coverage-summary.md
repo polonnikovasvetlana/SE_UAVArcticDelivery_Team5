@@ -19,6 +19,8 @@ WGS84 geodesic circles have a 300 km radius. Route segments are interpolated wit
 
 ## Operating assumptions
 
+Current user direction (DEC-003): prioritize main shipping areas and accept incomplete coverage. Use **312 km** as the average nearest-candidate planning benchmark and **approximately 630 km** as the optional full-reference-line reach scenario. Do not call the average a minimum aircraft range or infer a share of actual delivery demand from it. The priority sections and acceptance percentage have not been defined. See the [technical requirements / agent brief](../System_Architecture/technical-requirements-brief.md). Existing map circles and calculation results remain the historical screening evidence.
+
 The user specifies one-way delivery, landing on the recipient ship and swapping the battery there. Availability of all 57 candidate launch sites is optimistic: electricity, permanent support and access are not qualified everywhere. Compatible charged batteries, crew and landing arrangements on recipient ships remain unverified. Wind, payload, reserves, ship motion and recovery after the swap are not modeled. No shipping-corridor width is assumed, so no covered sea-area percentage is claimed. Weather-data acquisition during delivery remains part of the project scope; this map does not evaluate measurement coverage or accuracy.
 
-Next: agree a representative corridor/alternative routes and qualify launch sites before using these numbers as service-wide coverage claims.
+Next: agree the priority shipping sections and acceptable uncovered portions, compare UAV capability against the two benchmarks, and qualify launch sites before using these numbers as service-wide coverage claims.

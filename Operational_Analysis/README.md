@@ -6,6 +6,8 @@ Project: **Emergency drug delivery to a ship or port based on UAV system with in
 
 ## Status and Purpose
 
+Current coverage priority: serve the main shipping areas, accepting incomplete geographical coverage. Retain **312 km average nearest-candidate distance** and **approximately 630 km one-way reach for full coverage of the selected reference route** as the two UAV comparison benchmarks. Neither defines coverage of actual demand; priority sections remain to be agreed. See the [agent brief](../System_Architecture/technical-requirements-brief.md) and DEC-003 in the [decision log](../decision-log.md).
+
 Latest map update: [300 km coverage map](Arctic_relay_map.png) ([PDF](Arctic_relay_map.pdf), [SVG](Arctic_relay_map.svg)) now replaces the earlier relay-link illustration. See [coverage analysis and source limits](nsr-coverage-summary.md): 46.8% of a selected historical NSR line is within reach under optimistic candidate availability. A full shipping corridor remains undefined.
 
 Current focused study: [Relay distance first-pass results](relay-distance-first-pass.md), with 57 candidate locations and 1,596 calculated pair distances across the Murmansk–Anadyr corridor. The [theoretical criteria](relay-network-theory.md) retain electricity and permanent human presence as the primary site checks. The user subsequently authorized a new [relay map](Arctic_relay_map.png) ([PDF](Arctic_relay_map.pdf), [SVG](Arctic_relay_map.svg)); original maps are unchanged. The earlier version distinguished site types and direct relay gaps; the latest version shows 300 km reach circles and covered/uncovered portions of the sourced reference shipping line. Port grouping is for display, not a verified size ranking; site qualification remains provisional.

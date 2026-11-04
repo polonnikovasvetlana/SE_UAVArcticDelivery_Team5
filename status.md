@@ -28,6 +28,8 @@ Last updated: 2026-11-04.
 
 ## Active Tasks
 
+- Current UAV selection framing: **312 km average nearest-candidate distance** and **approximately 630 km one-way reach for full coverage of the selected reference route**. The user prioritizes main shipping areas and accepts incomplete coverage; the specific sections and coverage target remain undefined. Compare longer-range UAVs and alternatives that reduce reliance on new relay infrastructure. See the [technical requirements / agent brief](System_Architecture/technical-requirements-brief.md) and DEC-003. These are geographical study benchmarks, not demonstrated aircraft ranges or approved acceptance limits.
+
 - Updated the existing [relay map](Operational_Analysis/Arctic_relay_map.png) to show 300 km one-way coverage, with PDF/SVG exports. A sourced historical NSR reference line gives 46.8% length coverage, 312 km mean nearest-site distance and approximately 630 km reach for that line alone; this does not define the full shipping corridor. See [coverage summary](Operational_Analysis/nsr-coverage-summary.md). User specifies landing and battery swap on the receiving ship; site and ship support remain unverified.
 
 - Created a separate [relay map](Operational_Analysis/Arctic_relay_map.png) on 2026-11-04 at the user's request, with PDF/SVG exports, 57 candidates, reference-port/relay/industrial symbols, four highlighted direct gaps over 300 km, and candidate detours. Original maps are unchanged. Port grouping follows the reference map, not verified throughput; sites and detours remain provisional.
@@ -40,6 +42,7 @@ Last updated: 2026-11-04.
 ## Blockers and Open Questions
 
 - For relay screening, confirm whether continuously staffed facilities with rotating crews qualify as permanent human presence, and define acceptable inland detours. These choices affect which locations may connect the corridor.
+- Define the main shipping areas and acceptable service coverage. The 312 km average does not establish majority coverage; approximately 630 km concerns the selected reference line alone. Validate loaded range, cold/wind capability, mission time and recovery for shortlisted aircraft.
 - Review the four direct gaps and proposed detours in the distance report. Gyda–Dikson is 299.8 km between reference coordinates, so exact landing-site selection can change the 300 km screening result.
 - Reconcile delivery-time targets: Part 1 states no more than 3 hours for shore sites and 5 hours for ships; Part 2 and workbook entry A4 give 4 hours.
 - Validate quantitative inputs before treating them as approved requirements. The [workbook](Operational_Analysis/UAV_NFR_Questions.xlsx) contained 55 questions: 54 marked Open, one Assumed, and none Confirmed during the earlier review. It is now located in `Operational_Analysis/`.
@@ -50,7 +53,7 @@ Last updated: 2026-11-04.
 
 ## Proposed Next Steps
 
-1. Review the completed first-pass relay results with the user; select a candidate route and confirm electricity/permanent presence at its critical nodes. Preserve the no-map constraint and distinguish inland connectivity from ship-route coverage.
+1. Compare UAV solutions using the 312 km average-distance benchmark and optional approximately 630 km full-reference-route scenario; agree priority shipping areas. Assess ways to reduce new relay infrastructure, using the existing relay analysis as evidence rather than assuming a relay network has been selected.
 2. Consolidate the operating concept and reconcile conflicting targets, distinguishing verified facts from assumptions and proposed requirements.
 3. Use the existing operational and system functions as inputs to the logical architecture required for PDR. A completed physical architecture is not explicitly required by the supplied checklist.
 4. Within authorized work, record resulting decisions and assumptions in [decision-log.md](decision-log.md) and [assumptions.md](assumptions.md).

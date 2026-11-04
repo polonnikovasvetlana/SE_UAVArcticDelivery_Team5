@@ -70,6 +70,8 @@ The SA layer contains 44 functions plus the root function, 42 functional exchang
 
 ## Provisional Quantitative Inputs
 
+For the current UAV comparison, use **312 km average nearest-candidate distance** and **approximately 630 km one-way reach for full coverage of the selected reference route**. Main shipping areas take priority; full coverage is optional. These geographical benchmarks do not replace or approve workbook requirements. See the [current technical requirements / agent brief](../System_Architecture/technical-requirements-brief.md), [coverage evidence](../Operational_Analysis/nsr-coverage-summary.md) and DEC-003 in the [decision log](../decision-log.md). The table below retains the historical source statements.
+
 | Input | Existing statement | Evidence and status |
 | --- | --- | --- |
 | Delivery time | 4 hours overall versus 3 hours for shore sites / 5 hours for ships | Part 2 and workbook A4 conflict with Part 1; unresolved. |
