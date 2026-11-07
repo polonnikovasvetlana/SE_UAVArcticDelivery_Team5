@@ -1,6 +1,6 @@
 # Operational Analysis — Current State
 
-Last reviewed: 2026-11-04.
+Last reviewed: 2026-11-07.
 
 Project: **Emergency drug delivery to a ship or port based on UAV system with inflight data acquisition: temperature, pressure, winds and visibility measurements**
 
@@ -8,9 +8,13 @@ Project: **Emergency drug delivery to a ship or port based on UAV system with in
 
 Current coverage priority: serve the main shipping areas, accepting incomplete geographical coverage. Retain **312 km average nearest-candidate distance** and **approximately 630 km one-way reach for full coverage of the selected reference route** as the two UAV comparison benchmarks. Neither defines coverage of actual demand; priority sections remain to be agreed. See the [agent brief](../System_Architecture/technical-requirements-brief.md) and DEC-003 in the [decision log](../decision-log.md).
 
-Latest map update: [300 km coverage map](Arctic_relay_map.png) ([PDF](Arctic_relay_map.pdf), [SVG](Arctic_relay_map.svg)) now replaces the earlier relay-link illustration. See [coverage analysis and source limits](nsr-coverage-summary.md): 46.8% of a selected historical NSR line is within reach under optimistic candidate availability. A full shipping corridor remains undefined.
+Base coverage map: [300 km radius](Arctic_relay_map.png) ([PDF](Arctic_relay_map.pdf), [SVG](Arctic_relay_map.svg)). See [coverage analysis and source limits](nsr-coverage-summary.md): 46.8% of a selected historical NSR line is within reach under optimistic candidate availability. A full shipping corridor remains undefined.
 
-Current focused study: [Relay distance first-pass results](relay-distance-first-pass.md), with 57 candidate locations and 1,596 calculated pair distances across the Murmansk–Anadyr corridor. The [theoretical criteria](relay-network-theory.md) retain electricity and permanent human presence as the primary site checks. The user subsequently authorized a new [relay map](Arctic_relay_map.png) ([PDF](Arctic_relay_map.pdf), [SVG](Arctic_relay_map.svg)); original maps are unchanged. The earlier version distinguished site types and direct relay gaps; the latest version shows 300 km reach circles and covered/uncovered portions of the sourced reference shipping line. Port grouping is for display, not a verified size ranking; site qualification remains provisional.
+### 700 km radius coverage map
+
+[Arctic_relay_map_700km.png](Arctic_relay_map_700km.png) shows a **700 km one-way radius** around each of the same 57 candidate launch sites (1,400 km circle diameter). The selected historical reference line is entirely within those circles in this geographical calculation: **4,675 of 4,675 km (100%)**. Green route sections are within reach; there are no red, uncovered sections in this scenario. The calculation is in [nsr-coverage-results_700km.json](nsr-coverage-results_700km.json). Regenerate the image with `python3 create-relay-map.py --radius-km 700` from this directory. The same site-availability and flight-performance limitations described in the [coverage analysis](nsr-coverage-summary.md) apply.
+
+Current focused study: [Relay distance first-pass results](relay-distance-first-pass.md), with 57 candidate locations and 1,596 calculated pair distances across the Murmansk–Anadyr corridor. The [theoretical criteria](relay-network-theory.md) retain electricity and permanent human presence as the primary site checks. The coverage maps show reach circles and covered/uncovered portions of the sourced reference shipping line. Port grouping is for display, not a verified size ranking; site qualification remains provisional.
 
 The user reports that Operational Analysis (OA) has been performed. The existing Capella model contains stakeholder groupings, operational capabilities, activities, and exchanges. This summary provides an entry point for future agents; it is not a formal approval or a complete model audit.
 
