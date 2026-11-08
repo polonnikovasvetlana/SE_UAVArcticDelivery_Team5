@@ -21,6 +21,8 @@ Consult these sources before changing model content. This document summarizes th
 
 ## System Boundary and Responsibilities
 
+**The current System is the automated delivery equipment and software, while Mission control is the human operator or team supervising it.**
+
 The Capella component named `System` has 12 function allocations, covering transport, weather collection, route generation and updates, flight execution/replanning, package-temperature preservation, handover, status reporting, package acceptance, and connection with the ship.
 
 | Responsibility | Existing functions allocated to System |

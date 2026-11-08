@@ -1,0 +1,173 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Страница-1" id="w6ltKD_glFXletgE8_Y4">
+    <mxGraphModel dx="2084" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Medical site" vertex="1">
+          <mxGeometry height="200" width="200" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-21" parent="i7Vb7pW8twTEpipAIdJJ-20" style="rounded=0;whiteSpace=wrap;html=1;" value="Landing station for small UAVs" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-111" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="UAV storage" vertex="1">
+          <mxGeometry height="240" width="330" x="90" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-31" edge="1" parent="i7Vb7pW8twTEpipAIdJJ-22" source="i7Vb7pW8twTEpipAIdJJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-35" connectable="0" parent="i7Vb7pW8twTEpipAIdJJ-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bring the medicint to&amp;nbsp;&lt;br&gt;long filght area" vertex="1">
+          <mxGeometry relative="1" x="-0.065" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-23" parent="i7Vb7pW8twTEpipAIdJJ-22" style="rounded=0;whiteSpace=wrap;html=1;" value="Local flight UAVs area" vertex="1">
+          <mxGeometry height="60" width="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-30" parent="i7Vb7pW8twTEpipAIdJJ-22" style="whiteSpace=wrap;html=1;" value="Long flight UAV area" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-25" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-34" connectable="0" parent="i7Vb7pW8twTEpipAIdJJ-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bring the medicint to&amp;nbsp;&lt;br&gt;UAV storage" vertex="1">
+          <mxGeometry relative="1" x="0.0474" y="-3" as="geometry">
+            <mxPoint x="3" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Ship" vertex="1">
+          <mxGeometry height="200" width="270" x="550" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-29" parent="i7Vb7pW8twTEpipAIdJJ-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Ship landing site" vertex="1">
+          <mxGeometry height="60" width="120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-32" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;shape=wire;dashed=1;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-36" connectable="0" parent="i7Vb7pW8twTEpipAIdJJ-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Deliver the medicine&amp;nbsp;&lt;br&gt;and return" vertex="1">
+          <mxGeometry relative="1" x="-0.1755" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-37" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="L&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;anding site&lt;/span&gt;" vertex="1">
+          <mxGeometry height="300" width="420" x="1880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-72" edge="1" parent="i7Vb7pW8twTEpipAIdJJ-37" source="i7Vb7pW8twTEpipAIdJJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-38" parent="i7Vb7pW8twTEpipAIdJJ-37" style="rounded=0;whiteSpace=wrap;html=1;" value="- Chck and fix the UAV" vertex="1">
+          <mxGeometry height="60" width="120" x="32" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-73" edge="1" parent="i7Vb7pW8twTEpipAIdJJ-37" source="i7Vb7pW8twTEpipAIdJJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-53" parent="i7Vb7pW8twTEpipAIdJJ-37" style="rounded=0;whiteSpace=wrap;html=1;" value="- recover the energy" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-40" parent="i7Vb7pW8twTEpipAIdJJ-37" style="rounded=0;whiteSpace=wrap;html=1;" value="- Report that UAV is ready to fly" vertex="1">
+          <mxGeometry height="60" width="120" x="92" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-57" parent="i7Vb7pW8twTEpipAIdJJ-37" style="rounded=0;whiteSpace=wrap;html=1;" value="- Request destination for return" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-58" edge="1" parent="i7Vb7pW8twTEpipAIdJJ-37" source="i7Vb7pW8twTEpipAIdJJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-41" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Contoll center" vertex="1">
+          <mxGeometry height="240" width="370" x="1250" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-117" edge="1" parent="i7Vb7pW8twTEpipAIdJJ-41" source="i7Vb7pW8twTEpipAIdJJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-44" parent="i7Vb7pW8twTEpipAIdJJ-41" style="rounded=0;whiteSpace=wrap;html=1;" value="Analise current flight trafic.&lt;br&gt;Gives the best port to retrun" vertex="1">
+          <mxGeometry height="90" width="130" x="50" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-115" parent="i7Vb7pW8twTEpipAIdJJ-41" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="137" width="120" x="220" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-116" parent="i7Vb7pW8twTEpipAIdJJ-115" style="rounded=0;whiteSpace=wrap;html=1;" value="Plan the tragectory" vertex="1">
+          <mxGeometry height="60" width="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-46" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1832" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-47" connectable="0" parent="i7Vb7pW8twTEpipAIdJJ-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="UAV status &lt;br&gt;(charg, redines to flight etc&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1669" y="-1" as="geometry">
+            <mxPoint x="245" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-55" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="UAV" vertex="1">
+          <mxGeometry height="300" width="450" x="2028" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-50" parent="i7Vb7pW8twTEpipAIdJJ-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Executre tragectory" vertex="1">
+          <mxGeometry height="60" width="120" x="42" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-66" parent="i7Vb7pW8twTEpipAIdJJ-55" style="rounded=0;whiteSpace=wrap;html=1;" value="land" vertex="1">
+          <mxGeometry height="60" width="120" x="282" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-60" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1640" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-62" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="UAV destination landing site" vertex="1">
+          <mxGeometry height="250" width="300" x="2012" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-63" parent="i7Vb7pW8twTEpipAIdJJ-62" style="rounded=0;whiteSpace=wrap;html=1;" value="tell more detaild insturction where to land" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-64" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-65" connectable="0" parent="i7Vb7pW8twTEpipAIdJJ-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="UAV is close to the sotrage" vertex="1">
+          <mxGeometry relative="1" x="0.0461" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-67" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-68" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="System" vertex="1">
+          <mxGeometry height="410" width="690" x="400" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-69" parent="i7Vb7pW8twTEpipAIdJJ-68" style="rounded=0;whiteSpace=wrap;html=1;" value="UAV storage" vertex="1">
+          <mxGeometry height="60" width="120" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-74" parent="i7Vb7pW8twTEpipAIdJJ-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Landing site / station" vertex="1">
+          <mxGeometry height="60" width="120" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-75" parent="i7Vb7pW8twTEpipAIdJJ-68" style="rounded=0;whiteSpace=wrap;html=1;" value="UAVs" vertex="1">
+          <mxGeometry height="60" width="120" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-100" parent="i7Vb7pW8twTEpipAIdJJ-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Path planing module" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-113" parent="i7Vb7pW8twTEpipAIdJJ-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Contoll center" vertex="1">
+          <mxGeometry height="60" width="170" x="190" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-71" edge="1" parent="1" source="i7Vb7pW8twTEpipAIdJJ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="i7Vb7pW8twTEpipAIdJJ-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2470" y="600" as="sourcePoint" />
+            <mxPoint x="1920" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-120" connectable="0" parent="i7Vb7pW8twTEpipAIdJJ-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="`" vertex="1">
+          <mxGeometry relative="1" x="0.0238" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-108" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="Inermidate port (relay)" vertex="1">
+          <mxGeometry height="180" width="120" x="480" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="i7Vb7pW8twTEpipAIdJJ-109" parent="i7Vb7pW8twTEpipAIdJJ-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Landing site" vertex="1">
+          <mxGeometry height="60" width="120" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
